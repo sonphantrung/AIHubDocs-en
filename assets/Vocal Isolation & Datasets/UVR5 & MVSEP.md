@@ -13,7 +13,7 @@ Some models can also extract specific stems, like backing vocals, drums, bass, &
 
 - The goal is to get an audio sample with clean vocals, which is what RVC needs to give the most accurate & quality results.
 
-- The main two apps that RVC users use are [<u>Ultimate Vocal Remover 5</u>](https://rvc-docs.github.io/Docs/vocal-isolation--datasets/uvr5--mvsep/#ultimate-vocal-remover-5) (for **local** users) and [<u>MVSEP</u>](https://rvc-docs.github.io/Docs/vocal-isolation--datasets/uvr5--mvsep/#mvsep) (for **cloud** users).        
+- The main two apps that RVC users use are [<u>Ultimate Vocal Remover 5</u>](https://aihubdocs.github.io/en/vocal-isolation--datasets/uvr5--mvsep/#ultimate-vocal-remover-5) (for **local** users) and [<u>MVSEP</u>](https://aihubdocs.github.io/en/vocal-isolation--datasets/uvr5--mvsep/#mvsep) (for **cloud** users).        
 ***
 <img src="../uvrmvsep-img/3.jpg" alt="image" width="" height="auto">‎       
 ‎       
@@ -67,15 +67,15 @@ In `Select ouput` you select in which folder you want the results to be.
 <img src="../uvrmvsep-img/4.jpg" alt="image" width="300" height="auto">         ‎    
 
 !!!success 
-For better results, have the audio in a [<u>lossless format</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/) (**WAV** or **FLAC**), & not MP3.
+For better results, have the audio in a [<u>lossless format</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/) (**WAV** or **FLAC**), & not MP3.
 !!!
 ***
 ###### ‎ 
 #### 2. <u>Select FLAC & GPU Conversion.</u> 
 a. At the right you'll see three audio formats to pick as the output format.       
-We recommend picking `FLAC`. Learn why [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/).   
+We recommend picking `FLAC`. Learn why [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/).   
 
-b. If your GPU is **compatible with [<u>CUDA</u>](https://rvc-docs.github.io/Docs/other/glossary/#cuda)**, toggle `GPU Conversion` on for a faster process.    
+b. If your GPU is **compatible with [<u>CUDA</u>](https://aihubdocs.github.io/en/other/glossary/#cuda)**, toggle `GPU Conversion` on for a faster process.    
 
     <img src="../uvrmvsep-img/16.png" alt="image" width="350" height="auto">‎      
 ###### ‎       
@@ -157,15 +157,15 @@ In `Select ouput` you select in which folder you want the results to be.
 <img src="../uvrmvsep-img/4.jpg" alt="image" width="300" height="auto">‎        
 
 !!!success 
-For better results, have the audio in a [<u>lossless format</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/) (**WAV** or **FLAC**), & not MP3.
+For better results, have the audio in a [<u>lossless format</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/) (**WAV** or **FLAC**), & not MP3.
 !!!
 ***
 ###### ‎ 
 #### 2. <u>Select FLAC & GPU Conversion.</u> 
 a. At the right you'll see three audio formats to pick as the output format.       
-We recommend picking `FLAC`. Learn why [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/).   
+We recommend picking `FLAC`. Learn why [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/).   
 
-b. If your GPU is **compatible with [<u>CUDA</u>](https://rvc-docs.github.io/Docs/other/glossary/#cuda)**, toggle `GPU Conversion` on for a faster process.    
+b. If your GPU is **compatible with [<u>CUDA</u>](https://aihubdocs.github.io/en/other/glossary/#cuda)**, toggle `GPU Conversion` on for a faster process.    
 
     <img src="../uvrmvsep-img/16.png" alt="image" width="350" height="auto">‎      
 ###### ‎       
@@ -270,7 +270,7 @@ a. Click `Browse File` & select your audio. The audio will begin to upload.
     <img src="../uvrmvsep-img/9.png" alt="image" width="330" height="auto">‎   
 ‎       
 b. In `Output encoding` select `FLAC`.      
-We recommend selecting FLAC from now on. Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/).
+We recommend selecting FLAC from now on. Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/).
 
     <img src="../uvrmvsep-img/10.png" alt="image" width="420" height="auto">‎   
     
@@ -355,7 +355,7 @@ The audio will begin to upload.
     <img src="../uvrmvsep-img/9.png" alt="image" width="330" height="auto">‎   
 ‎       
 b. In `Output encoding` select `FLAC`.      
-We recommend selecting FLAC from now on. Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/).
+We recommend selecting FLAC from now on. Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/).
 
     <img src="../uvrmvsep-img/10.png" alt="image" width="420" height="auto">‎    
 ***

@@ -25,7 +25,7 @@ They're built to be faster for transmission & be space-efficient.
 
 - By getting rid of some data (in this case, quality), they achieve a smaller file size.       
 - Platforms like as YouTube, Spotify, or YouTube Music don't offer lossless streaming.      
-(even if you use a cracked Spotify "Premium", you're still limited 160kbps [<u>bitrate</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/#bitrate--bit-depth-extra))        
+(even if you use a cracked Spotify "Premium", you're still limited 160kbps [<u>bitrate</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/#bitrate--bit-depth-extra))        
 ‎   
 ==- *<u>Example</u>* 👈
 {.list-icon}
@@ -83,7 +83,7 @@ Inputting one that doesn't match with the dataset will screw the final quality a
 ‎       
 
 To know its sample rate, we'll use **Ilaria Audio Analyzer**.        
-A tool hosted in [<u>Hugging Face</u>](https://rvc-docs.github.io/Docs/other/glossary/#hugging-face) for determining different characteristics of an audio file.
+A tool hosted in [<u>Hugging Face</u>](https://aihubdocs.github.io/en/other/glossary/#hugging-face) for determining different characteristics of an audio file.
 
 - **<u>Step 1:</u>** Enter the HF space [<u>here</u>](https://huggingface.co/spaces/TheStinger/Ilaria_Audio_Analyzer).        
 

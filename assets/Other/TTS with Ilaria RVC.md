@@ -68,8 +68,8 @@ To download the output audio tap the three buttons of the audio & click `Downloa
 ###### ‎ 
 
 !!!success To convert it with RVC:
-For [<u>local</u>](https://rvc-docs.github.io/Docs/other/glossary/#local-running) users, click [<u>**here**</u>](https://rvc-docs.github.io/Docs/rvc/local/mangio-rvc/).     
-For [<u>cloud</u>](https://rvc-docs.github.io/Docs/other/glossary/#cloud-based) users, click [<u>**here**</u>](https://rvc-docs.github.io/Docs/rvc/cloud/inference/ilaria-rvc/).
+For [<u>local</u>](https://aihubdocs.github.io/en/other/glossary/#local-running) users, click [<u>**here**</u>](https://aihubdocs.github.io/en/rvc/local/mangio-rvc/).     
+For [<u>cloud</u>](https://aihubdocs.github.io/en/other/glossary/#cloud-based) users, click [<u>**here**</u>](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/).
 !!!
 ***
 :::content-right

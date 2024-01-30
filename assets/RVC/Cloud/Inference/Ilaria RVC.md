@@ -6,9 +6,9 @@
 :::content-center
 ## Introduction 📜
 :::
-- Ilaria RVC is a port of EasyGUI ([<u>Mangio</u>](https://rvc-docs.github.io/Docs/rvc/local/mangio-rvc/)) to [<u>Google Colab</u>](https://rvc-docs.github.io/Docs/other/glossary/#google-colab), made by Ilaria.     
+- Ilaria RVC is a port of EasyGUI ([<u>Mangio</u>](https://aihubdocs.github.io/en/rvc/local/mangio-rvc/)) to [<u>Google Colab</u>](https://aihubdocs.github.io/en/other/glossary/#google-colab), made by Ilaria.     
 
-- Works for inferencing only, has a pretty UI, amazing speed, & the great tools that Mangio has (such as [<u>Mangio-Crepe</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/#pitch-extraction-algorithm) algorithm).
+- Works for inferencing only, has a pretty UI, amazing speed, & the great tools that Mangio has (such as [<u>Mangio-Crepe</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm) algorithm).
 
 - It's liked for being the fastest, free & of unlimited use way of inferencing via the cloud.       
 ‎               
@@ -37,7 +37,7 @@ You might disagree with some of the points made.
 :::
 !!! NOTES:
 • ‎ Ensure you have a stable Internet connection before proceeding.   
-• ‎ If you encounter an issue during the tutorial, read the [<u>Troubleshooting</u>](https://rvc-docs.github.io/Docs/rvc/cloud/inference/ilaria-rvc/#troubleshooting-) chapter below.
+• ‎ If you encounter an issue during the tutorial, read the [<u>Troubleshooting</u>](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#troubleshooting-) chapter below.
 !!!
 
 ###### ‎ 
@@ -79,7 +79,7 @@ If you do, you'll have to do this procedure again. Ilaria RVC needs it running i
 a. After loading, close the bottom window & go to the ``Download Voice Models`` tab.     
 
 b. Paste the link of the model in the `Hugging Face Link` bar.      
-It must be a public link from either [**<u>Hugging Face</u>**](https://rvc-docs.github.io/Docs/other/glossary/#hugging-face) or **Google Drive**.
+It must be a public link from either [**<u>Hugging Face</u>**](https://aihubdocs.github.io/en/other/glossary/#hugging-face) or **Google Drive**.
 
 c. In `Name of the model`, insert a name for it then click `Download`.        
 
@@ -105,7 +105,7 @@ Below it, in `Drag your audio file and click refresh`, click it to load your aud
 ***
 ###### ‎ 
 #### 7. <u>Adjust settings.</u> (optional)    
-If you wish, you can modify the [<u>inference settings</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/) in `Index Settings` & `Advanced Options` for better results.   
+If you wish, you can modify the [<u>inference settings</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/) in `Index Settings` & `Advanced Options` for better results.   
 Tap them to unfold them.      
 
 <img src="../ilarvc-img/6.png" alt="image" width="500" height="auto"> ‎                  
@@ -143,14 +143,14 @@ For this, go to the Colab space. At the top click `Runtime`, then `Disconnect an
 ***
 > ***My model doesn't have a link from HF/GD.***
 - Upload a **.ZIP** file of the model to Hugging Face as a **public** repo.
-- If you need help, click [<u>here</u>](https://rvc-docs.github.io/Docs/essentials/how-to-upload-models-to-hugging-face/).
+- If you need help, click [<u>here</u>](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/).
 ***
 > ***I can't download my model.***      
 - This could be due to a few reasons:     
 
     1. **<u>Link is private</u>:** 
         - **If you uploaded to GD:** ensure the `General access` is set as `Anyone with the link`.
-        - **If you uploaded to HF:** ensure the repo is set as `Public`. Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/essentials/how-to-upload-models-to-hugging-face/).            
+        - **If you uploaded to HF:** ensure the repo is set as `Public`. Learn more [<u>here</u>](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/).            
         ‎   
     2. **<u>Invalid HF link:</u>**
         - The HF link must contain the word "**.zip**".
@@ -158,12 +158,12 @@ For this, go to the Colab space. At the top click `Runtime`, then `Disconnect an
     ‎       
     3. **<u>Incorrect files:</u>**
         - The model must be zipped in a **.ZIP** file. Not .RAR or .7ZIP.
-        - Ensure it contains the [<u>correct files</u>](https://rvc-docs.github.io/Docs/essentials/how-to-upload-models-to-hugging-face/).
+        - Ensure it contains the [<u>correct files</u>](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/).
 
 ***
 > ***The voice glitches out. How do I fix it?***
 - This is an anomaly called "**artifacting**".           
-Learn more & fix [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/artifacting--how-to-fix-it/).
+Learn more & fix [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting--how-to-fix-it/).
 ***
 > ***I couldn't find my answer, what now?***
 - Need help? Join AI Hub [<u>here</u>](https://discord.com/invite/aihub). Ask in the `#help-chat` or `help-forum` channels.

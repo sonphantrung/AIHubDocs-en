@@ -59,7 +59,7 @@ Now, to avoid overtraining an RVC voice model, RVC users use a tool called ***Te
 ###### ‎
 - The TensorBoard is a tool that allows you to visualize & measure the training of an AI model, through graphs & metrics.
 
-- It's specially useful for determining when to stop training a voice model, since you can detect when the [<u>overtraining</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/#what-is-overtraining) point begins.    
+- It's specially useful for determining when to stop training a voice model, since you can detect when the [<u>overtraining</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#what-is-overtraining) point begins.    
 
 - Because of this, the TB is the most convenient tool for RVC users for perfecting a voice model.     
 ***
@@ -67,7 +67,7 @@ Now, to avoid overtraining an RVC voice model, RVC users use a tool called ***Te
 ### :icon-chevron-down: How to Install & Open
 !!!
 • ‎ This method might not work for every fork.      
-• ‎ For [<u>RVC Disconnected</u>](https://rvc-docs.github.io/Docs/rvc/cloud/training/rvc-disconnected/) users, ignore this, it opens up by itself when you begin training.
+• ‎ For [<u>RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/) users, ignore this, it opens up by itself when you begin training.
 !!!
 ###### ‎       
 - Download this file move it inside RVC's folder:       

@@ -8,9 +8,9 @@
 :::content-center
 ## Introduction 📜
 :::   
-- Mangio RVC is a [<u>fork</u>](https://rvc-docs.github.io/Docs/other/glossary/#fork) of RVC, made by Mangio621, Kalomaze, & Alex.
+- Mangio RVC is a [<u>fork</u>](https://aihubdocs.github.io/en/other/glossary/#fork) of RVC, made by Mangio621, Kalomaze, & Alex.
 
-- Considered one of the best forks out there. Mainly because of it's extra features, inclusion of [<u>Mangio-Crepe</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/#pitch-extraction-algorithm), & its stability.
+- Considered one of the best forks out there. Mainly because of it's extra features, inclusion of [<u>Mangio-Crepe</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm), & its stability.
 
 - The project nowadays is a little abandoned, so don't expect many updates from the developers soon, unfortunately.     
 
@@ -26,9 +26,9 @@ You might disagree with some of the points.
 :icon-plus: Easy to install.      
 :icon-plus: Includes Mangio-Crepe algorithm.        
 :icon-plus: Nicer UI.       
-:icon-plus: More features than [<u>Mainline</u>](https://rvc-docs.github.io/Docs/rvc/local/mainline-rvc/).        
+:icon-plus: More features than [<u>Mainline</u>](https://aihubdocs.github.io/en/rvc/local/mainline-rvc/).        
 :icon-plus: Has hybrid training.        
-:icon-plus: Lighter storage-wise if you install the [<u>inference</u>](https://rvc-docs.github.io/Docs/other/glossary/#inference)-only version.
+:icon-plus: Lighter storage-wise if you install the [<u>inference</u>](https://aihubdocs.github.io/en/other/glossary/#inference)-only version.
 ||| **CONS** ❌
 :icon-dash: A little slower than Mainline, since it's more bloated.     
 :icon-dash: Will likely remain with no updates for a long time.      
@@ -69,7 +69,7 @@ Depending on your specs it might take longer to open.
 :::
 ###### ‎    
 #### 1. <u>Upload voice model.</u>
-a. Open Mangio's folder & put your model's [<u>**.PTH**</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#voice-model-files) file inside the `weights` folder.
+a. Open Mangio's folder & put your model's [<u>**.PTH**</u>](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/#voice-model-files) file inside the `weights` folder.
 
     <img src="../mangio-img/g.png" alt="image" width="500" height="auto"> 
 ###### ‎       
@@ -103,7 +103,7 @@ If there are multiple audios in said path, click `Select audio path from the dro
 ***
 ###### ‎  
 #### 4. <u>Modify settings.</u> (optional)      
-If you wish, modify the [<u>inference settings</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/) on display accordingly for better results.
+If you wish, modify the [<u>inference settings</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/) on display accordingly for better results.
 ***
 ###### ‎  
 #### 5. <u>Convert.</u>
@@ -119,7 +119,7 @@ Your output audios will be located in Mangio's `audio-outputs` folder.
 <img src="../mangio-img/a.png" alt="image" width="" height="auto"> 
 
 ###### ‎           
-#### If the voice glitches out, click [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/artifacting--how-to-fix-it/).
+#### If the voice glitches out, click [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting--how-to-fix-it/).
 ***
 ###### ‎       
 :::content-center
@@ -128,10 +128,10 @@ Your output audios will be located in Mangio's `audio-outputs` folder.
 :::content-center
 !!!warning <u> IMPORTANT NOTES: </u>
 - For **AMD/Intel** users, it's best if you train through the cloud as these GPUs aren't compatible for AI training.        
-[<u>RVC Disconnected</u>](https://rvc-docs.github.io/Docs/rvc/cloud/training/rvc-disconnected/) & [<u>Paperspace</u>](https://rvc-docs.github.io/Docs/rvc/cloud/paperspace/) are the best contenders.         
+[<u>RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/) & [<u>Paperspace</u>](https://aihubdocs.github.io/en/rvc/cloud/paperspace/) are the best contenders.         
 
 ‎ ‎ • ‎ The training process will be centered around the **Tensorboard**.       
-‎ ‎ ‎ ‎ ‎ ‎ If you don't know about it, give it a quick read [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/).        
+‎ ‎ ‎ ‎ ‎ ‎ If you don't know about it, give it a quick read [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).        
 !!!
 :::
 ###### ‎       
@@ -156,7 +156,7 @@ Don't include special characters or spaces.
 ***
 ###### ‎  
 #### 3. <u>Select Target Sample Rate.</u>
-In `Target sample rate` select the number that matches your datasets' [<u>sample rate</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/#sample-rate).        
+In `Target sample rate` select the number that matches your datasets' [<u>sample rate</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/#sample-rate).        
 Inputting an incorrect one might screw up the final quality.
 
 <img src="../mangio-img/6.png" alt="image" width="" height="auto"> 
@@ -217,7 +217,7 @@ In `Enter the GPU index(es)` determine which GPU(s) you'll use for training, by 
 ***
 ###### ‎  
 #### 7. <u>Select pitch extraction algorithm.</u>
-a. At the right select the [<u>Pitch extraction algorithm</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/).       
+a. At the right select the [<u>Pitch extraction algorithm</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/).       
 Use either ``RMVPE``, ``Crepe``, or `Mangio-Crepe` according to your needs.            
 
     <img src="../mangio-img/10.png" alt="image" width="270" height="auto"> 
@@ -239,7 +239,7 @@ b. Now click the `Feature extraction` button on the right.
 ###### ‎  
 #### 8. <u>Create .INDEX file.</u>
 Now click the `Feature extraction` button on the bottom.         
-This will create the [<u>.INDEX</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#voice-model-files) file.       
+This will create the [<u>.INDEX</u>](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/#voice-model-files) file.       
 
 <img src="../mangio-img/11.png" alt="image" width="280" height="auto"> 
 
@@ -256,7 +256,7 @@ It'll finish when the output box says `Successful index Construction`.
 :::
 ###### ‎         
 #### 9. <u>Select save frequency.</u>
-In `Save frequency` you determine at how many [<u>epochs</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/) the model will saved at.       
+In `Save frequency` you determine at how many [<u>epochs</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/) the model will saved at.       
 If you are a newbie, leave it at `15`.      
 
 Think of it as how often RVC will make a "saving checkpoint" file of your model.     
@@ -277,7 +277,7 @@ In `Total training epochs` input the total amount of epochs (training cycles) us
 
 Though since we'll use a Tensorboard, using an arbitrarely large value like `2000` is probably enough, to avoid re-training.       
 
-Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/).     
+Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).     
 
 
 <img src="../mangio-img/13.png" alt="image" width="250" height="auto">
@@ -297,7 +297,7 @@ If your dataset is short, (around 2 minutes or less) use ``4`` instead.
 #### 12. <u>Launch TensorBoard.</u>
 Now before you start training, open the TB.     
 
-If you havent already, start reading [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/).
+If you havent already, start reading [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).
 ***
 ###### ‎  
 #### 13. <u>Begin training.</u>
@@ -337,7 +337,7 @@ Example: ``kalomaze_e60_s120.pth``
 
 And that's all. Have fun with your model.
 
-To test the model, do a normal [<u>inference</u>](https://rvc-docs.github.io/Docs/essentials/how-to-make-ai-cover/) as usual.
+To test the model, do a normal [<u>inference</u>](https://aihubdocs.github.io/en/essentials/how-to-make-ai-cover/) as usual.
     
 If you were going for a model that hits low/high notes, screams, or other special sounds, ensure your audio sample includes them too.
 ***

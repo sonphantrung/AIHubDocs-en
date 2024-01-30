@@ -10,7 +10,7 @@
 
 - In this case, voice models are AI models trained to **replicate** a voice, and with AI it **apply** it to a given audio.
 
-- The best way to make voice models is with the software **RVC**. Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/essentials/how-to-make-an-rvc-voice-model/).      
+- The best way to make voice models is with the software **RVC**. Learn more [<u>here</u>](https://aihubdocs.github.io/en/essentials/how-to-make-an-rvc-voice-model/).      
 ###### ‎   
 ### Voice Model Files 
 They are made up of two files, of ``.index`` and ``.pth`` extension:         
@@ -96,11 +96,11 @@ Tap the three dots and ``Download model``. This will download a .ZIP file of it.
        
 ‎       
 If you need the model as a link instead, use the other methods.     
-If it only exists in weights.gg, download the .ZIP & click <u>[here](https://rvc-docs.github.io/Docs/essentials/how-to-upload-models-to-hugging-face/)</u>.      
+If it only exists in weights.gg, download the .ZIP & click <u>[here](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/)</u>.      
        
 !!! *What's 'epochs'?*      
 Epoch is a unit of measuring the training cycles of a model. More epochs don't necessarily equal better model.   
-Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/).
+Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).
 !!!
 
 +++ Voice Models channel     
@@ -131,7 +131,7 @@ In the upper search bar, search your model & click the post.
 ***
 ###### ‎
 #### 3. <u>Download model</u>.      
-Click the [<u>Hugging Face</u>](https://rvc-docs.github.io/Docs/other/glossary/#hugging-face) link to download the model, or copy it if that's what you need.      
+Click the [<u>Hugging Face</u>](https://aihubdocs.github.io/en/other/glossary/#hugging-face) link to download the model, or copy it if that's what you need.      
 You can listen to the audio sample to get a preview of the it.
 
 <img src="../searchrvcmodels-img/6.png" alt="image" width="480" height="auto"> 
@@ -182,7 +182,7 @@ In the chatbox, type ``/search``, click the **ModelAI** command, type your model
 ### Description 📜
 :::
 - This is a platform where you can upload & share AI models, AI apps, & datasets, and where people usually store their RVC models.
-- Learn more about it [<u>here</u>](https://rvc-docs.github.io/Docs/other/glossary/#hugging-face).
+- Learn more about it [<u>here</u>](https://aihubdocs.github.io/en/other/glossary/#hugging-face).
 ***
 ###### ‎
 :::content-center
@@ -202,14 +202,14 @@ If you need its link, right-click it and copy the address.
 !!! <u>*In case there isn't a .ZIP.*</u>
 Download the **.INDEX** file named `added_`, and the **.PTH** that doesn't start with ``D_`` or ``G_``.       
 
-If you need it as a **link**, download the two files mentioned & upload it yourself. Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/essentials/how-to-upload-models-to-hugging-face/).
+If you need it as a **link**, download the two files mentioned & upload it yourself. Learn more [<u>here</u>](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/).
 !!!
 +++
        
 If you couldn't find your model anywhere, you have three options:       
 Make the model yourself, use a different one, or pay a model maker to make it for you.          
 
-If you are interested in the first option, click [<u>here</u>](https://rvc-docs.github.io/Docs/essentials/how-to-make-an-rvc-voice-model/).
+If you are interested in the first option, click [<u>here</u>](https://aihubdocs.github.io/en/essentials/how-to-make-an-rvc-voice-model/).
 ***
 :::content-right
 ||| *Did I miss anything?*        

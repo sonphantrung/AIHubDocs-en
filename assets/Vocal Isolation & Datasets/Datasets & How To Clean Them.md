@@ -40,7 +40,7 @@ Here are some general recommendations/requirements for a quality dataset:
 - Ensure there isn't background noise, reverb, overlapping voices, music, distortion, or small silences. You'll learn more in the **Cleaning Datasets** section below.
 
 #### :icon-chevron-down: Good audio quality.
-- It's better if the audio format is a [<u>lossless</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/) one like **WAV** or **FLAC**, not a lossy one like MP3.
+- It's better if the audio format is a [<u>lossless</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/) one like **WAV** or **FLAC**, not a lossy one like MP3.
 
 #### :icon-chevron-down: No silibance/popping.
 - Additionally, it's best if they don't include harsh silibance (loud "S" & "SH" pronounciation) or popping sounds (loud "P" sound).
@@ -53,11 +53,11 @@ Here are some general recommendations/requirements for a quality dataset:
 *`for the information`*      
 
 ‎   
-First, clean the undesired noises explained before using an **audio isolation** software. Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/vocal-isolation--datasets/uvr5--mvsep/).       
+First, clean the undesired noises explained before using an **audio isolation** software. Learn more [<u>here</u>](https://aihubdocs.github.io/en/vocal-isolation--datasets/uvr5--mvsep/).       
 Keep reading once you're done.          
 
 ‎       
-Now, to minimize (even more) background noise, remove silences & distorsion, we'll use tools from Audacity. A free, simple & very light-weighted [<u>DAW</u>](https://rvc-docs.github.io/Docs/other/glossary/#daw).       
+Now, to minimize (even more) background noise, remove silences & distorsion, we'll use tools from Audacity. A free, simple & very light-weighted [<u>DAW</u>](https://aihubdocs.github.io/enother/glossary/#daw).       
 Download [<u>here</u>](https://www.audacityteam.org/download/).
 
 Here's how you use it:  

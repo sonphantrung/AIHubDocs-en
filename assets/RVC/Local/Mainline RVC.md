@@ -10,7 +10,7 @@
 
 - Mainline RVC is the base, original, & unmodified version of RVC. Made by the [<u>RVC-Project</u>](https://github.com/RVC-Project) team.
 
-- It has less features compared to other [<u>forks</u>](https://rvc-docs.github.io/Docs/other/glossary/), but still has the necessary tools to do a decent job.
+- It has less features compared to other [<u>forks</u>](https://aihubdocs.github.io/en/other/glossary/), but still has the necessary tools to do a decent job.
 
 - It's specially liked because it's a little faster than other forks, as it's less bloated in a way. 
 
@@ -29,7 +29,7 @@ You might disagree with some of the points made.
 :icon-plus: A bit faster compared w/ forks. 
 ||| **CONS** ❌
 :icon-dash: Has less features.     
-:icon-dash: No [<u>Mangio-Crepe</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/#pitch-extraction-algorithm) algorithm.      
+:icon-dash: No [<u>Mangio-Crepe</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm) algorithm.      
 :icon-dash: Manual model upload.
 ||| 
 ===
@@ -70,13 +70,13 @@ Depending on your specs it might take longer to open.
 :::
 ###### ‎   
 #### 1. <u>Upload voice model.</u>
-a. Open RVC's folder, go to the `assets` folder and put your model's [<u>**.PTH**</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#voice-model-files) file inside the `weights` folder.       
+a. Open RVC's folder, go to the `assets` folder and put your model's [<u>**.PTH**</u>](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/#voice-model-files) file inside the `weights` folder.       
     ‎       
     <img src="../mainline-img/5.png" alt="image" width="520" height="auto">      
 ‎       
        
 b. Return to the previous folder.       
-Put the model's [<u>**.INDEX**</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#voice-model-files) file in the `logs` folder.
+Put the model's [<u>**.INDEX**</u>](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/#voice-model-files) file in the `logs` folder.
 
     <img src="../mainline-img/6.png" alt="image" width="520" height="auto"> 
 
@@ -102,7 +102,7 @@ In ``Enter the path of the audio file`` paste the [<u>path file</u>](https://sta
 ***
 ###### ‎  
 #### 4. <u>Modify settings.</u> (optional)      
-If you wish, modify the [<u>inferece settings</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/) on display accordingly for better results.
+If you wish, modify the [<u>inferece settings</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/) on display accordingly for better results.
 ***
 ###### ‎  
 #### 5. <u>Convert.</u>
@@ -117,7 +117,7 @@ To download, click the three dots on the right & hit `Download`.
 
 <img src="../mainline-img/9.png" alt="image" width="500" height="auto">‎        
            
-#### If the voice glitches out, click [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/artifacting--how-to-fix-it/).
+#### If the voice glitches out, click [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting--how-to-fix-it/).
 
 ***
 ###### ‎     
@@ -125,10 +125,10 @@ To download, click the three dots on the right & hit `Download`.
 ## How to Train 💾
 ###### ‎   
 !!!warning <u> IMPORTANT NOTES: </u>
-- For **AMD/Intel** users, preferably train through the cloud as these GPUs aren't compatible for AI training. [<u>RVC Disconnected</u>](https://rvc-docs.github.io/Docs/rvc/cloud/training/rvc-disconnected/) & [<u>Paperspace</u>](https://rvc-docs.github.io/Docs/rvc/cloud/paperspace/) are the best contenders.          
+- For **AMD/Intel** users, preferably train through the cloud as these GPUs aren't compatible for AI training. [<u>RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/) & [<u>Paperspace</u>](https://aihubdocs.github.io/en/rvc/cloud/paperspace/) are the best contenders.          
 
 ‎ ‎ • ‎ The training process will be centered around the **Tensorboard**.       
-‎ ‎ ‎ ‎ ‎ ‎ If you don't know about it, give it a quick read [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/) first.        
+‎ ‎ ‎ ‎ ‎ ‎ If you don't know about it, give it a quick read [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/) first.        
 !!!
 :::
 ###### ‎     
@@ -158,7 +158,7 @@ Example: `ArianaGrande2023` and not ``Ariana Grande 2023 >.< !``.
 ***
 ###### ‎  
 #### 3. <u>Select Target Sample Rate.</u>
-In `Target sample rate` select the number that matches your datasets' [<u>sample rate</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/#sample-rate).        
+In `Target sample rate` select the number that matches your datasets' [<u>sample rate</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/#sample-rate).        
 Inputting an incorrect one might screw up the final quality.
 
 <img src="../mainline-img/g.png" alt="image" width="" height="auto">         
@@ -222,7 +222,7 @@ In `Enter the GPU index(es)` determine which GPU(s) you'll use for training, by 
 a. At the right select the `Pitch extraction algorithm`.       
 Use either ``RMVPE_GPU`` or ``Crepe``, according to your needs.            
 
-    Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/).
+    Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/).
 
     <img src="../mainline-img/16.png" alt="image" width="" height="auto"> ‎      
 
@@ -242,7 +242,7 @@ b. Now click the `Feature extraction` button on the right.
 ###### ‎  
 #### 8. <u>Create .INDEX.</u>
 Press `Train feature index` at the bottom center.       
-This will create the [<u>.INDEX</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#voice-model-files) file.
+This will create the [<u>.INDEX</u>](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/#voice-model-files) file.
 
 <img src="../mainline-img/i.png" alt="image" width="250" height="auto">‎     
 ‎       
@@ -257,7 +257,7 @@ It'll finish when the outbot box says something like this:
 :::
 ###### ‎           
 #### 9. <u>Select save frequency.</u>
-In `Save frequency` you determine at how many [*<u>epochs</u>*](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/) the model will saved at.       
+In `Save frequency` you determine at how many [*<u>epochs</u>*](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/) the model will saved at.       
 If you are a newbie, leave it at `15`.      
 
 - Think of it as how often RVC will make a "saving checkpoint" file of your model.     
@@ -274,7 +274,7 @@ In `Total training epochs` you determine the total amount of epochs (training cy
 
 But since we'll use the Tensorboard, using an arbitrarely large value like `2000` is probably enough, to avoid re-training.
 
-Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/).
+Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).
 
 <img src="../mainline-img/19.png" alt="image" width="" height="auto">  
 
@@ -293,7 +293,7 @@ If your dataset is short (around 2 minutes or less), use ``4`` instead.
 #### 12. <u>Launch Tensorboard.</u>
 Now before you start training, open the TB.     
 
-If you havent already, start reading [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/).
+If you havent already, start reading [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).
 ***
 ###### ‎  
 #### 13. <u>Begin training.</u>
@@ -332,7 +332,7 @@ Example: ``kalomaze_e60_s120.pth``
 
     And that's all. Have fun with your model.
 
-    To test the model, do a normal [<u>inference</u>](https://rvc-docs.github.io/Docs/essentials/how-to-make-ai-cover/) as usual.
+    To test the model, do a normal [<u>inference</u>](https://aihubdocs.github.io/en/essentials/how-to-make-ai-cover/) as usual.
     
     If you were going for a model that hits low/high notes, screams, or other special sounds, ensure your audio sample includes them too.
 ***
@@ -347,7 +347,7 @@ Here's how you do it.
 - Simply enter the **same settings and criteria** that you previously inserted.   
 Model name, sample rate, dataset, batch size, etc.        
 
-- If you have already done it before, you don't have to press ``Process Data`` or train the [<u>.INDEX</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#voice-model-files) again.
+- If you have already done it before, you don't have to press ``Process Data`` or train the [<u>.INDEX</u>](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/#voice-model-files) again.
 
 - If you re-train because you didn't put enough epochs before, increase the total epochs.             
 Inserting double the amount should be enough.

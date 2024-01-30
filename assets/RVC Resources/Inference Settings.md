@@ -6,7 +6,7 @@
 :::content-center
 ## Introduction 📜
 :::
-- When doing [<u>inference</u>](https://rvc-docs.github.io/Docs/other/glossary/#inference) in RVC, you'll come across to quite a few options that you can tweak, that influence the convertion process.
+- When doing [<u>inference</u>](https://aihubdocs.github.io/en/other/glossary/#inference) in RVC, you'll come across to quite a few options that you can tweak, that influence the convertion process.
 
 - Configuring them accordingly can improve the output quality by a lot, so we highly recommend learning them.   
 
@@ -43,12 +43,12 @@ To prevent it, use numbers divisable by 12 & are integers.
 
 ‎    
 
-#### :icon-chevron-down: Determines level of influence of model's [<u>.INDEX</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#voice-model-files) to the audio:
+#### :icon-chevron-down: Determines level of influence of model's [<u>.INDEX</u>](https://aihubdocs.github.io/enessentials/voice-models--how-to-search-them/#voice-model-files) to the audio:
 - Higher values will apply more of the INDEX to the output.   
 
 - In other words, it determines (at some extent) some characteristics of the model's voice. 
 
-- Lowering it can **reduce [<u>artifacting</u>](https://rvc-docs.github.io/Docs/rvc-resources/artifacting--how-to-fix-it/)**.      
+- Lowering it can **reduce [<u>artifacting</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting--how-to-fix-it/)**.      
      
 >Remember, if the dataset had other sounds like (example) background noise, there will be noise in the .INDEX too.
 
@@ -73,7 +73,7 @@ As a lot of them are obsolete, we'll focus on the three main ones: **RMVPE**, **
 ||| <u>Crepe</u>
 - Slower.
 - More detailed.
-- More prone to [<u>artifacting</u>](https://rvc-docs.github.io/Docs/rvc-resources/artifacting--how-to-fix-it/).        
+- More prone to [<u>artifacting</u>](https://aihubdocs.github.io/enrvc-resources/artifacting--how-to-fix-it/).        
 Use RMVPE if it happens.
 - Recommended for more **professional** results.
 ||| <u>Mangio-Crepe</u>

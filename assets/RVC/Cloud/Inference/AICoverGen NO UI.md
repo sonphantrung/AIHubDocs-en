@@ -8,7 +8,7 @@
 ## Introduction 📜
 :::
 ###### ‎    
-- AICoverGen NO UI is a port of the AICoverGen RVC [<u>fork</u>](https://rvc-docs.github.io/Docs/other/glossary/#fork) to [<u>Google Colab</u>](https://rvc-docs.github.io/Docs/other/glossary/#google-colab).        
+- AICoverGen NO UI is a port of the AICoverGen RVC [<u>fork</u>](https://aihubdocs.github.io/en/other/glossary/#fork) to [<u>Google Colab</u>](https://aihubdocs.github.io/en/other/glossary/#google-colab).        
 Base notebook by [<u>Ardha27</u>](https://github.com/ardha27).    
 
 - This version (**Eddy's Version**) is an upgrade from the original Colab space, bringing bug fixes, improvements, & extra features.   
@@ -131,7 +131,7 @@ Under it in ``RVC_DIRNAME`` type the model's name that you have **assigned** bef
 ***     
 ###### ‎   
 #### 6. <u>Modify settings.</u> (optional)        
-Below ``RVC_DIRNAME`` until ``Audio Mixing Options`` you'll find the [<u>inference options</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/).     
+Below ``RVC_DIRNAME`` until ``Audio Mixing Options`` you'll find the [<u>inference options</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/).     
 Tweak them accordingly for better results if you wish.
 
  <img src="../aicovergen-img/3.png" alt="image" width="270" height="auto">        
@@ -182,7 +182,7 @@ b. Right-click the audio, press `Download` and that's all.
 >If you want the output without `REMIX_MIX_RATE`'s influence, use the one without "mixed" at the end.  
 
 
-- #### If the voice glitches out, click [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/artifacting--how-to-fix-it/).
+- #### If the voice glitches out, click [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting--how-to-fix-it/).
 ***
 :::content-right
 ||| *Did I miss anything?*        

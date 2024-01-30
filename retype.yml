@@ -4,10 +4,10 @@ output: .retype
 url: aihubdocs.github.io/en
 
 branding:
-  title: AI HUB
-  logo: ../assets/img/logo1.png
+  title:
+  logo: ../assets/img/a.png
   logoDark: 
-  label: Docs
+  label:
 
 links:
 - text: Need Help?
@@ -23,4 +23,4 @@ links:
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 
-favicon: ../assets/img/logo1.png
+favicon: ../assets/img/b.png

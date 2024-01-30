@@ -26,11 +26,11 @@ So when RVC tries to handle with these noises, this anomaly happens.
 ***
 ###### ‎ 
 ### How do you fix it?      
-1. You can remove undesired noises with an [<u>audio isolation</u>](https://rvc-docs.github.io/Docs/vocal-isolation--datasets/uvr5--mvsep/) software.
+1. You can remove undesired noises with an [<u>audio isolation</u>](https://aihubdocs.github.io/en/vocal-isolation--datasets/uvr5--mvsep/) software.
 
-2. If you are doing inference, lowering the [<u>search feature ratio</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/#search-feature-ratio-or-index-rate) can also minimize this issue.
+2. If you are doing inference, lowering the [<u>search feature ratio</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#search-feature-ratio-or-index-rate) can also minimize this issue.
 
-3. Ensure your audios are in a [<u>lossless format</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/) like `WAV` or `FLAC` to preserve their quality, not a lossy one like `MP3`.
+3. Ensure your audios are in a [<u>lossless format</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/) like `WAV` or `FLAC` to preserve their quality, not a lossy one like `MP3`.
 ***
 :::content-right
 ||| *Did I miss anything?*        

@@ -10,11 +10,11 @@
 :::content
 #### Before proceeding, make sure you meet these requirements:
 ||| <u> REQUIREMENTS </u>
-- Model's <u>[**.PTH**](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#section-1)</u> file.        
-- Model's [**.INDEX**](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#section-1) file.      
-- General information about the <u>[model](https://rvc-docs.github.io/Docs/essentials/how-to-make-an-rvc-voice-model/#what-is-a-voice-model).</u>
+- Model's <u>[**.PTH**](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/#section-1)</u> file.        
+- Model's [**.INDEX**](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/#section-1) file.      
+- General information about the <u>[model](https://aihubdocs.github.io/en/essentials/how-to-make-an-rvc-voice-model/#what-is-a-voice-model).</u>
 - General information about the training process.      
-- A <u>[Hugging Face](https://rvc-docs.github.io/Docs/other/glossary/#hugging-face)</u> account.     
+- A <u>[Hugging Face](https://aihubdocs.github.io/en/other/glossary/#hugging-face)</u> account.     
 - At least 1 audio sample of the model **<u>WITH NO MUSIC</u>**.     
 |||
 :::
@@ -42,19 +42,19 @@
    - Incapable of hitting certain notes
    - With slurred speach
    - Unable of pronouncing words correctly in its intended language
-   - Has [<u>artifacting</u>](https://rvc-docs.github.io/Docs/rvc-resources/artifacting--how-to-fix-it/)
+   - Has [<u>artifacting</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting--how-to-fix-it/)
 ***
 #### :icon-chevron-right: <u>You used an outdated extraction method.</u>
 {.list-icon}
 - :icon-x-circle: **Don't** use obsolete ones like Harvest, Dio, Crepe-Tiny, PM, etc.         
-- :icon-check-circle: Use one of the 3 main ones **Crepe, Mangio-Crepe**, or **RMVPE**. Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/#pitch-extraction-algorithm)
+- :icon-check-circle: Use one of the 3 main ones **Crepe, Mangio-Crepe**, or **RMVPE**. Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm)
 ***
 #### :icon-chevron-right: <u>The audio demo has an instrumental.</u>
 - Due to concerns over copyright, do **NOT** include **ANY** music on the audio demo, even if it's not copywritten.
 ***
 #### :icon-chevron-right: <u>The audio demo is altered.</u>
-- Don't add <u>[reverb](https://rvc-docs.github.io/Docs/other/glossary/#reverb)</u>, equalize, or alter the demo in any way, as that isn't a faithful representation of the model.     
-- It must be the raw, unmodified output from [<u>RVC</u>](https://rvc-docs.github.io/Docs/essentials/how-to-make-an-rvc-voice-model/#what-is-rvc).              
+- Don't add <u>[reverb](https://aihubdocs.github.io/enther/glossary/#reverb)</u>, equalize, or alter the demo in any way, as that isn't a faithful representation of the model.     
+- It must be the raw, unmodified output from [<u>RVC</u>](https://aihubdocs.github.io/en/essentials/how-to-make-an-rvc-voice-model/#what-is-rvc).              
 - Trimming silences at the beginning or end of the audio is okay. ✔️
 ***
 ###### ‎
@@ -70,7 +70,7 @@ It must be a **.ZIP** file, not .7ZIP or .RAR files.
 #### Step 2: <u>Upload model to Hugging Face.</u>
 The ZIP must be stored in Hugging Face in a **public** repo of `openrail` license.    
 
-If you don't know how, click [<u>here</u>](https://rvc-docs.github.io/Docs/essentials/how-to-upload-models-to-hugging-face/).
+If you don't know how, click [<u>here</u>](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/).
 ***
 ###### ‎
 #### Step 3: <u>Prepare the model submission.</u>
@@ -84,7 +84,7 @@ Now fill up the information about your model:
 1. **<u>modelname:</u>** The name of your model.   
 
 2. **<u>rvc:</u>** The version of RVC it was trained on (will almost always be 2)          
-3. **<u>extraction:</u>** The <u>[extraction method](https://rvc-docs.github.io/Docs/rvc-resources/inference-settings/#pitch-extraction-algorithm)</u> used for training.         
+3. **<u>extraction:</u>** The <u>[extraction method](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm)</u> used for training.         
 :icon-check-circle: Use **only** **Crepe**, **Mangio-Crepe**, or **RMVPE**.             
 :icon-x-circle: Obsolete algorithms like Harvest & others are not permitted.         
 4. **<u>epochs:</u>** Number of epochs the model was trained for.      

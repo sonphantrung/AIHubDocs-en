@@ -9,12 +9,12 @@ Select your model's ``.PTH`` and ``.INDEX`` and [<u>zip</u>](https://support.mic
 Ensure it's .ZIP and not .RAR or .7ZIP.
 
 Be sure to grab the correct files, as newbies sometimes use incorrect ones.     
-If you are not sure, click [<u>here</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#voice-model-files).
+If you are not sure, click [<u>here</u>](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/#voice-model-files).
 
 ***
 ###### ‎ 
 #### 2. <u>Log in.</u>
-Log in to your <u>[Hugging Face](https://rvc-docs.github.io/Docs/other/glossary/#hugging-face)</u> account.      
+Log in to your <u>[Hugging Face](https://aihubdocs.github.io/en/other/glossary/#hugging-face)</u> account.      
 
 If you haven't already, create one [<u>here</u>](https://huggingface.co/join).
 ***

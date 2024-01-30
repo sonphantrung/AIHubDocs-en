@@ -3,25 +3,20 @@ icon: home-fill
 ---
 # Home
 *`Written by Julia & Eddy`*        
-``Last update: Jan 24, 2024``         
+``Last update: Jan 30, 2024``         
 ***
 ###### ‎     
 :::content-center
 ## Introduction
 :::
-- This website is a **beginner-friendly documentation of RVC** & related apps, made by members of the AI Hub community. (project not affiliated with the server)
+- This website is a **beginner-friendly documentation** of RVC & related apps, made by members of the [<u>AI Hub</u>](https://discord.com/invite/aihub) community.
 
 - The goal is to facilitate its use & knowledge for the people & newcomers, through **simple & convenient guides**.
 
-- Topics include: model training, inference, audio isolation, datasets, Tensorboard & more, both **locally & through the cloud**.
+- Topics include: model training, inference, audio isolation, datasets, Tensorboard & more, either **locally** or through the **cloud**.
 
 - **Feedback is welcomed!** Big or small we'll appreciate it. Send your ideas <u>[**here**](https://forms.gle/5i6hTJRVkXRohvVF9)</u> :icon-heart-fill:     
-You're free to open an issue/submit a pull request to our <u>[GitHub page](https://github.com/RVC-Docs)</u> as well.
-:::content-right
-<img src="img/logo1.png" alt="image" width="150" height="auto"> 
-:::
-‎   
-‎    
+You're free to open an [<u>issue</u>](https://github.com/AIHubDocs/en/issues)/submit a [<u>pull request</u>](https://github.com/AIHubDocs/en/pulls) to our <u>[GitHub page](https://github.com/AIHubDocs/en)</u> as well.    
 ‎   
 ***
 !!!success ‎  
@@ -35,19 +30,19 @@ You're free to open an issue/submit a pull request to our <u>[GitHub page](https
 <img src="img/zoom.png" alt="" width="300" height="">‎          
 :::
 ###### ‎
->#### :icon-chevron-right: [<u>How To Make AI Cover</u>](https://rvc-docs.github.io/Docs/essentials/how-to-make-ai-cover/) 🎶
+>#### :icon-chevron-right: [<u>How To Make AI Cover</u>](https://aihubdocs.github.io/en/essentials/how-to-make-ai-cover/) 🎶
 >‎ ‎ ‎ • ‎ ***Basics for making AI covers with RVC, in any device.***
 >***
->#### :icon-chevron-right: [<u>How To Make An RVC Voice Model</u>](https://rvc-docs.github.io/Docs/essentials/how-to-make-an-rvc-voice-model/) 💾
+>#### :icon-chevron-right: [<u>How To Make An RVC Voice Model</u>](https://aihubdocs.github.io/en/essentials/how-to-make-an-rvc-voice-model/) 💾
 >‎ ‎ ‎ • ‎  ***Starting point for training RVC voice models, for all devices.***
 >***
->#### :icon-chevron-right: [<u>How To Search An RVC Voice Model</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/) 🔍
+>#### :icon-chevron-right: [<u>How To Search An RVC Voice Model</u>](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/) 🔍
 >‎ ‎ ‎ • ‎  ***What a voice model is & FOUR ways to search them.***
 >***
->#### :icon-chevron-right: [<u>How To Upload Model To Hugging Face</u>](https://rvc-docs.github.io/Docs/essentials/how-to-upload-models-to-hugging-face/) 🤗
+>#### :icon-chevron-right: [<u>How To Upload Model To Hugging Face</u>](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/) 🤗
 >‎ ‎ ‎ • ‎ ***Quick tutorial to upload & get a link from HF.***
 >***
->#### :icon-chevron-right: [<u>How To Upload Model To AI Hub/Get Model Maker Role</u>](https://rvc-docs.github.io/Docs/essentials/how-to-get-model-maker-role-in-ai-hub/) 📤
+>#### :icon-chevron-right: [<u>How To Upload Model To AI Hub/Get Model Maker Role</u>](https://aihubdocs.github.io/en/essentials/how-to-get-model-maker-role-in-ai-hub/) 📤
 >‎ ‎ ‎ • ‎ ***Procedure & rules for the model submission.***
 !!!
 ***
@@ -67,3 +62,4 @@ You're free to open an issue/submit a pull request to our <u>[GitHub page](https
 - Grvyscale
 - Delik
 - Mia
+***

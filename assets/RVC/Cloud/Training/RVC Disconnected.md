@@ -7,10 +7,10 @@
 ## Introduction 📜
 :::
 ###### ‎              
-- RVC Disconnected a port of RVC to [<u>Google Colab</u>](https://rvc-docs.github.io/Docs/other/glossary/#google-colab), for exclusively training.       
+- RVC Disconnected a port of RVC to [<u>Google Colab</u>](https://aihubdocs.github.io/en/other/glossary/#google-colab), for exclusively training.       
 Notebook made by [<u>Kit Lemonfoot</u>](https://huggingface.co/Kit-Lemonfoot).
 
-- It's free, includes all the necesary tools for a quality model, the [<u>Tensorboard</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/#what-is-tensorboard), & it's the fastest Colab space for training.    
+- It's free, includes all the necesary tools for a quality model, the [<u>Tensorboard</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#what-is-tensorboard), & it's the fastest Colab space for training.    
 
 - Making it the go-to method for training for cloud RVC users. Pretty much the only big downside is the time limit (but you can switch to another account & continue).      
 ‎       
@@ -43,7 +43,7 @@ You might disagree with some of the points made.
 :::
 ###### ‎ 
 !!! <u>Important notes:</u>
-• ‎ This guide is centered around the [<u>TensorBoard</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/). Read it first if you haven't already.    
+• ‎ This guide is centered around the [<u>TensorBoard</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/). Read it first if you haven't already.    
 • ‎ Turn on [<u>third-party cookies</u>](https://cleeng.zendesk.com/hc/en-us/articles/360009526800-How-to-enable-third-party-cookies-on-my-browser-), or TB might not work.
 !!!
 ###### ‎    
@@ -94,7 +94,7 @@ b. Define `experiment_name` as your model's name.
 
 c. Set `pretrain_type` as `original` if you aren't familiar with it.
 
-b. Select `target_sample_rate` as your dataset's [<u>sample rate</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/#sample-rate).
+b. Select `target_sample_rate` as your dataset's [<u>sample rate</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/#sample-rate).
     !!!
     • ‎ If it's **44.1k**, select ``40k``.      
     • ‎ If it's lower than **32k**, select ``32k``. 
@@ -103,7 +103,7 @@ b. Select `target_sample_rate` as your dataset's [<u>sample rate</u>](https://rv
 e. In ``pitch_extraction_algorithm`` select either ``RMVPE``, ``Crepe`` or ``Mangio-Crepe``, according to your needs.        
 Don't use Harvest, as it's obsolete.           
 
-    Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/essentials/how-to-make-an-rvc-voice-model/).
+    Learn more [<u>here</u>](https://aihubdocs.github.io/en/essentials/how-to-make-an-rvc-voice-model/).
 
 ***
 ###### ‎ 
@@ -123,7 +123,7 @@ b. Below it, execute `Preprocessing`, ``Feature Extraction``, & ``Save preproces
 ***
 ###### ‎ 
 #### 5. <u>Train Index.</u>   
-a. Run ``Index Training`` to create the [<u>.INDEX</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/) file.      
+a. Run ``Index Training`` to create the [<u>.INDEX</u>](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/) file.      
 
     <img src="../rvcdisconnected-img/17.png" alt="image" width="450" height="auto">‎        
 ‎       
@@ -137,7 +137,7 @@ a. Go to the `Training` cell.
 
     <img src="../rvcdisconnected-img/10.png" alt="image" width="350" height="auto">‎    
 ‎   
-b. In `Save frequency` you determine at how many [<u>epochs</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/) the model will saved at.       
+b. In `Save frequency` you determine at how many [<u>epochs</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/) the model will saved at.       
 If you are a newbie, leave it at `15`.      
 
     - Think of it as how often RVC will make a "saving checkpoint" file of your model.     
@@ -147,7 +147,7 @@ If you are a newbie, leave it at `15`.
 ‎     
 c. In `total_epochs` input the total amount of epochs (training cycles) used for the training.    
 
-    Since we'll use a TensorBoard, using an arbitrarely large value like `2000` is probably enough, to avoid re-training. Learn more [<u>here</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/) if you haven't already.     
+    Since we'll use a TensorBoard, using an arbitrarely large value like `2000` is probably enough, to avoid re-training. Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/) if you haven't already.     
 ‎   
 d. Leave `batch_size` as ``8`` if you are a newbie.     
 If your dataset is short (around 2 minutes or less), use ``4`` instead.    
@@ -172,7 +172,7 @@ The TB will open up automatically. Remember to keep an eye on it.
 a. Once you detect overtraining, to stop training click the stop button of the ``Training`` cell.     
 
 b. Click the folder symbol on the right, open the ``Mangio-RVC-Fork`` folder, then `weights`.        
-You'll find a list of each [<u>.PTH</u>](https://rvc-docs.github.io/Docs/essentials/voice-models--how-to-search-them/#voice-model-files) file of every epoch cycle/training step, with this format: ``modelname_epochnumber_stepnumber.pth``.        
+You'll find a list of each [<u>.PTH</u>](https://aihubdocs.github.io/en/essentials/voice-models--how-to-search-them/#voice-model-files) file of every epoch cycle/training step, with this format: ``modelname_epochnumber_stepnumber.pth``.        
 
     Right-click the right training point & press `Download`. 
 
@@ -201,7 +201,7 @@ If the model still needs training, you can resume the training from a previous c
 
     <img src="../rvcdisconnected-img/16.png" alt="image" width="450" height="auto">‎  
     ‎       
-4. And now you can resume training. Run the `Training` cell, & rememeber to keep an eye on the [<u>TB</u>](https://rvc-docs.github.io/Docs/rvc-resources/epochs-overtraining--tensorboard/#what-is-tensorboard).
+4. And now you can resume training. Run the `Training` cell, & rememeber to keep an eye on the [<u>TB</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#what-is-tensorboard).
 ***
 :::content-right
 ||| *Did I miss anything?*        

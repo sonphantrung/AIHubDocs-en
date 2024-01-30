@@ -10,7 +10,7 @@ Vocal lines that contribute to the sound of the lead vocals in a song.
 ###### ‎
 ### Closed-source
 Software whose author owns all rights to use, modify, and copy it, and the public cannot see or modify the code.    
-The opposite of [<u>open-source</u>](https://rvc-docs.github.io/Docs/other/glossary/#open-source).        
+The opposite of [<u>open-source</u>](https://aihubdocs.github.io/en/other/glossary/#open-source).        
 ***
 ###### ‎
 ### Cloud-based
@@ -20,7 +20,7 @@ The opposite of [<u>local running</u>](http://localhost:5000/Docs/other/glossary
 ###### ‎       
 ### Compression
 In the field of audio data, compression is the process of reducing the data of an audio file.            
-The compression can either be [<u>lossy</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/#lossy-formats) or [<u>lossless</u>](https://rvc-docs.github.io/Docs/rvc-resources/audio-formats--sample-rate/#lossless-formats).        
+The compression can either be [<u>lossy</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/#lossy-formats) or [<u>lossless</u>](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/#lossless-formats).        
 ***
 ###### ‎       
 ### CPU
@@ -50,7 +50,7 @@ It's a copy of a main GitHub project. It aims to make a different version of the
 ### Google Colab
 Google Colaboratory is a product of Google that allows anybody to write & execute arbitrary python code through websites.     
 
-Cloud RVC users mainly use it for the RVC ports, like [<u>AICoverGen NO UI</u>](https://rvc-docs.github.io/Docs/rvc/cloud/inference/aicovergen-no-ui/), [<u>Ilaria RVC</u>](https://rvc-docs.github.io/Docs/rvc/cloud/inference/ilaria-rvc/), & [<u>RVC Disconnected</u>](https://rvc-docs.github.io/Docs/rvc/cloud/training/rvc-disconnected/).    
+Cloud RVC users mainly use it for the RVC ports, like [<u>AICoverGen NO UI</u>](https://aihubdocs.github.io/en/rvc/cloud/inference/aicovergen-no-ui/), [<u>Ilaria RVC</u>](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/), & [<u>RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/).    
 
 Colab is free, but its free version is slower & with a usage limit of **6 hours per day**. When you ran out of it you'll have to wait 24 hours.     
 You can upgrade to a paid option for a better version too. 
@@ -83,14 +83,14 @@ In the world of **AI in general**, is the process where a model is used to trans
 ### Local running
 Running locally is a process that involves running apps in your own machine, using its resources.       
 
-The opposite of [<u>cloud-based</u>](https://rvc-docs.github.io/Docs/other/glossary/#cloud-based).     
+The opposite of [<u>cloud-based</u>](https://aihubdocs.github.io/en/other/glossary/#cloud-based).     
 ***
 ###### ‎       
 ### Open-source
 Software who's original source code is made freely available to watch, distribute & modify.       
 An open-source software can be seen as a positive thing since it's considered a sign of honesty & transparency.   
 
-The opposite of [<u>closed-source</u>](https://rvc-docs.github.io/Docs/other/glossary/#closed-source).     
+The opposite of [<u>closed-source</u>](https://aihubdocs.github.io/en/other/glossary/#closed-source).     
 ***
 ###### ‎       
 ### Reverb

@@ -78,15 +78,15 @@ Then you can start using Mangio.
 **2.** If you get an error when you click ``Process data``, don't worry, it's a visual glitch. Keep working as usual.   
 !!!
 ‎           
-### Opening Tensorboard
-To run Tensorboard while using RVC you'll have to do it on a separate terminal.         
+### Opening TensorBoard
+To run TensorBoard while using RVC you'll have to do it on a separate terminal.         
 
 a. Go to your notebook and open a new terminal by clicking the Terminal symbol ( :icon-terminal: ) on the right.
 
 b. Then introduce this:
 
         cd/notebooks/Mangio-RVC-Fork
-        make tensorboard
+        make TensorBoard
         
 ***
 ###### ‎   

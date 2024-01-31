@@ -159,7 +159,7 @@ If your dataset is short (around 2 minutes or less), use ``4`` instead.
 Now  begin training by running the `Training` cell.     
 Be patient, it may take hours.
 
-The TB will open up automatically. Remember to keep an eye on it.             
+ TB will open up automatically. Remember to keep an eye on it.             
 !!!warning <u>While training, you might get disconnected if you:</u>
 • ‎ Ran out of usage time.       
 • ‎ Don't interact with the space for a long time (staying AFK).     

@@ -57,11 +57,11 @@ Now, to avoid overtraining an RVC voice model, RVC users use a tool called ***Te
 ## What is TensorBoard?   
 :::   
 ###### ‎
-- The TensorBoard is a tool that allows you to visualize & measure the training of an AI model, through graphs & metrics.
+- TensorBoard is a tool that allows you to visualize & measure the training of an AI model, through graphs & metrics.
 
 - It's specially useful for determining when to stop training a voice model, since you can detect when the [<u>overtraining</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#what-is-overtraining) point begins.    
 
-- Because of this, the TB is the most convenient tool for RVC users for perfecting a voice model.     
+- Because of this,  TB is the most convenient tool for RVC users for perfecting a voice model.     
 ***
 ###### ‎
 ### :icon-chevron-down: How to Install & Open
@@ -77,7 +77,7 @@ Now, to avoid overtraining an RVC voice model, RVC users use a tool called ***Te
 - Now execute. It will open a console window & create some folders inside RVC.    
 If you get the `Windows protected your PC` issue, click <u>**More info**</u> & `Run anyway`.
 
-- Once it's done, your default browser should open with the TensorBoard app.           
+- Once it's done, your default browser should open with TensorBoard app.           
 
 - If it doesn't, copy the address of the console at the bottom, and paste it in your browser.       
 Said address will say "**https://localhost**" followed by a number.

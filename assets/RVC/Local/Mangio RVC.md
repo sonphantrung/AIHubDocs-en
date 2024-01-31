@@ -275,7 +275,7 @@ Example. With a value of ``10``, RVC will save the model at every 10 epochs.
 #### 10. <u>Input epochs amount.</u>
 In `Total training epochs` input the total amount of epochs (training cycles) used for the training.    
 
-Though since we'll use a Tensorboard, using an arbitrarely large value like `2000` is probably enough, to avoid re-training.       
+Though since we'll use a TensorBoard, using an arbitrarely large value like `2000` is probably enough, to avoid re-training.       
 
 Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).     
 
@@ -295,7 +295,7 @@ If your dataset is short, (around 2 minutes or less) use ``4`` instead.
 ***
 ###### ‎  
 #### 12. <u>Launch TensorBoard.</u>
-Now before you start training, open the TB.     
+Now before you start training, open  TB.     
 
 If you havent already, start reading [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).
 ***
@@ -303,7 +303,7 @@ If you havent already, start reading [<u>here</u>](https://aihubdocs.github.io/e
 #### 13. <u>Begin training.</u>
 Start training the model by clicking `Train model`.
 
-Be sure to keep an eye on the TB & the console.
+Be sure to keep an eye on  TB & the console.
 
 <img src="../mangio-img/16.png" alt="image" width="290" height="auto"> 
 
@@ -357,7 +357,7 @@ Model name, sample rate, dataset, batch size, etc.
 - If you re-train because you didn't put enough epochs before, increase the total epochs.             
 Inserting double the amount should be enough.
 
-- Begin training again & remember to monitor the TB & console like before.
+- Begin training again & remember to monitor  TB & console like before.
 ***
 :::content-right
 ||| *Did I miss anything?*        

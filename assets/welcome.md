@@ -13,7 +13,7 @@ icon: home-fill
 
 - The goal is to facilitate its use & knowledge for the people & newcomers, through **simple & convenient guides**.
 
-- Topics include: model training, inference, audio isolation, datasets, Tensorboard & more, either **locally** or through the **cloud**.
+- Topics include: model training, inference, audio isolation, datasets, TensorBoard & more, either **locally** or through the **cloud**.
 
 - **Feedback is welcomed!** Big or small we'll appreciate it. Send your ideas <u>[**here**](https://forms.gle/5i6hTJRVkXRohvVF9)</u> :icon-heart-fill:     
 You're free to open an [<u>issue</u>](https://github.com/AIHubDocs/en/issues)/submit a [<u>pull request</u>](https://github.com/AIHubDocs/en/pulls) to our <u>[GitHub page](https://github.com/AIHubDocs/en)</u> as well.    

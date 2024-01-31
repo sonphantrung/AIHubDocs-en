@@ -1,5 +1,5 @@
 *`Written by Julia`*        
-``Last update: Jan 29, 2024``         
+``Last update: Jan 31, 2024``         
 ***
 ###### ‎           
 :::content-center
@@ -23,7 +23,7 @@ They are made up of two files, of ``.index`` and ``.pth`` extension:
 #### :icon-triangle-right: <u>PTH:</u>
 - This file is the model itself.
 - Contains data regarding pitch.     
-- While training, it generate files named `D_` or `G_`, but these are training checkpoints, not usable models. The right one will be simply named as the model.        
+- While training, RVC generates other .PTHs named `D_` or `G_`, but these are training checkpoints, not usable models. The right one will be simply named as the model.        
            
 !!!warning *Be sure to upload the correct files mentioned before.*
 Otherwise you can't make a proper use of models with incorrect ones.
@@ -66,7 +66,7 @@ Models from **kits.ai** can't be downloaded.
 :::
 ###### ‎
 #### 1. <u>Log in.</u>      
-Head over to the website *here*, and login by clicking the icon on the upper right corner.
+Head over to the website [<u>here</u>](weights.gg), and login by clicking the icon on the upper right corner.
 ***
 ###### ‎
 #### 2. <u>Search the model.</u>  

@@ -272,7 +272,7 @@ If you are a newbie, leave it at `15`.
 #### 10. <u>Input epochs amount.</u>
 In `Total training epochs` you determine the total amount of epochs (training cycles) for training.     
 
-But since we'll use the Tensorboard, using an arbitrarely large value like `2000` is probably enough, to avoid re-training.
+But since we'll use TensorBoard, using an arbitrarely large value like `2000` is probably enough, to avoid re-training.
 
 Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).
 
@@ -290,8 +290,8 @@ If your dataset is short (around 2 minutes or less), use ``4`` instead.
 
 ***
 ###### ‎  
-#### 12. <u>Launch Tensorboard.</u>
-Now before you start training, open the TB.     
+#### 12. <u>Launch TensorBoard.</u>
+Now before you start training, open  TB.     
 
 If you havent already, start reading [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).
 ***
@@ -299,7 +299,7 @@ If you havent already, start reading [<u>here</u>](https://aihubdocs.github.io/e
 #### 13. <u>Begin training.</u>
 Start training the model by clicking `Train model`.
 
-Be sure to keep an eye on the TB & the console.
+Be sure to keep an eye on  TB & the console.
 
 <img src="../mainline-img/21.png" alt="image" width="250" height="auto">  
 
@@ -352,7 +352,7 @@ Model name, sample rate, dataset, batch size, etc.
 - If you re-train because you didn't put enough epochs before, increase the total epochs.             
 Inserting double the amount should be enough.
 
-- Begin training again & remember to monitor the TB & console like before.
+- Begin training again & remember to monitor  TB & console like before.
 ***
 :::content-right
 ||| *Did I miss anything?*        

@@ -4,7 +4,7 @@ This project is a beginner-friendly documentation of RVC (Retrieval-based Voice 
 
 The goal is to facilitate its use & knowledge for the people and newcomers.
 
-Here you'll find simple & convenient guides regarding, model training, inference, audio isolation, cleaning datasets, overtraining, Tensorboard use & more.     
+Here you'll find simple & convenient guides regarding, model training, inference, audio isolation, cleaning datasets, overtraining, TensorBoard use & more.     
 Both through local & cloud execution.
 ## Contributions
 

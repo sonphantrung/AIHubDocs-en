@@ -94,12 +94,11 @@ Tap the three dots and ``Download model``. This will download a .ZIP file of it.
 
 <img src="../searchrvcmodels-img/4.png" alt="image" width="600" height="auto">‎                          
        
-‎       
+!!! NOTES:      
 If you need the model as a link instead, use the other methods.     
-If it only exists in weights.gg, download the .ZIP & click <u>[here](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/)</u>.      
+But if it only exists in weights.gg, download the .ZIP & upload it to HF. Learn more <u>[here](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/)</u>.      
        
-!!! *What's 'epochs'?*      
-Epoch is a unit of measuring the training cycles of a model. More epochs don't necessarily equal better model.   
+**Regarding epochs**, 'epoch' is a unit of measuring the training cycles of a model. More epochs don't necessarily equal better model.   
 Learn more [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/).
 !!!
 

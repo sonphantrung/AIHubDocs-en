@@ -65,7 +65,7 @@ This is the original version of RVC, being the simplest & quickest to use for tr
 ###### ‎ 
 ### 3. Train model.
 Before you start training, there's something **important** you need to know:        
-The training guides are centered around the <u>[**TensorBoard**](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#how-to-use-tensorboard)</u>, a tool for determining exactly when to stop training.
+The training guides are centered around the <u>[**TensorBoard**](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#what-is-tensorboard)</u>, a tool for determining exactly when to stop training.
 
 A common mistake RVC users make is train the model for a semi-arbitrary amount of time.  
 But this isn't a convenient method if you aim towards a quality model, as it can screw up the results.

@@ -101,7 +101,7 @@ Once you are done filling the information, send the message.
 If everything went fine, your submission will be added to the queue and the bot will send a confirmation message, containing your **submission ID**.    
 
 <u>**With the ID you can:**</u>        
-1. Check your submission's number in queue with the command ``/queue`` followed by the ID. (for example, ``/cancel 251``)        
+1. Check your submission's number in queue with the command ``/queue`` followed by the ID. (for example, ``/queue 251``)        
 2. Cancel your submission with the command ``/cancel`` followed by the ID.    
 ‎     
 

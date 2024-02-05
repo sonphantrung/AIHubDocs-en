@@ -70,7 +70,7 @@ Now, to avoid overtraining an RVC voice model, RVC users use a tool called ***Te
 • ‎ For [<u>RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/) users, ignore this, it opens up by itself when you begin training.
 !!!
 ###### ‎       
-- Download this file move it inside RVC's folder:       
+- Download this file move it inside RVC's folder. Ensure the file path doesn't contain spaces/special characters, to avoid errors:       
   
     [!file](./tensorboardfiles/TensorVENV.bat)    
      

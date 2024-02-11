@@ -1,6 +1,5 @@
-*``Originally written by LollenApe``*       
-*``Re-written by Julia & Leo``*     
-``Last update: Jan 27, 2024``
+  
+``Last update: Feb 10, 2024``
 
 ***
 :::content-center
@@ -13,7 +12,7 @@
 
 - It's a great alternative for training RVC voice models through the cloud, since it's even faster than Google Colab.
 
-- Making this platform one of the most competent counterparts to Colab, if you don't mind paying a monthly suscription.      
+- Making this platform one of the most competent counterparts to Colab, if you don't mind paying a monthly subscription.      
 ***
 ###### ‎   
 ## Important Notes
@@ -28,9 +27,9 @@ This is optional, the paid plans are fast enough.
 ## How to Use   
 ###### ‎   
 #### 1. <u>Set up account.</u>
-a. Start by making an account [<u>here</u>](https://console.paperspace.com/signup).
+a. Start by making an account <u>[here</u>](https://console.paperspace.com/signup).
 
-b. Buy a plan in the `Platform Plans` section on the right [<u>here</u>](https://www.paperspace.com/pricing).
+b. Buy a plan in the `Platform Plans` section on the right <u>[here</u>](https://www.paperspace.com/pricing).
 
    <img src="../paperspace-img/3.png" alt="image" width="575" height="auto">      
 
@@ -90,7 +89,10 @@ b. Then introduce this:
         
 ***
 ###### ‎   
+:::content-center
 ## Comparison With Colab
+:::
+###### ‎
 >###### ‎
 >:::content-center
 ><img src="../paperspace-img/11.png" alt="image" width="600" height=""> ‎   
@@ -104,14 +106,18 @@ You can achieve training speeds that are approximately 3 times faster compared t
 So, if you were to train a model with a dataset that takes around an hour and a half (1:30) on Paperspace, it would take approximately three and a half hours (3:30).       
 ‎       
 On the other hand, on Colab, it might take around 7 hours (without considering the account switching)."*         
+>***
 >:::content-right
->``Picture and quote by LollenApe``    
+>``- Picture & quote by LollenApe``    
 >:::     
 >‎        
 >‎    
 ***
-:::content-right
-||| *Did I miss anything?*        
-Send any feedback [<u>here</u>](https://forms.gle/5i6hTJRVkXRohvVF9) 👈
-|||
+:::content-center
+``Original guide: LollenApe``       
+`Redone by: Julia & Leo`
 :::
+:::content-center
+[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://forms.gle/3GVR7opzpQrhgRCj9)
+:::
+***

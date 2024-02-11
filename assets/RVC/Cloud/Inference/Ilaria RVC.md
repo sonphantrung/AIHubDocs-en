@@ -1,175 +1,225 @@
-*`Written by Julia`*     
-``Last update: Jan 27, 2024``
+``Last update: Feb 10, 2024``
 ‎ 
 ***  
 ###### ‎ 
 :::content-center
-## Introduction 📜
+## Introduction
 :::
-- Ilaria RVC is a port of EasyGUI ([<u>Mangio</u>](https://aihubdocs.github.io/en/rvc/local/mangio-rvc/)) to [<u>Google Colab</u>](https://aihubdocs.github.io/en/other/glossary/#google-colab), made by Ilaria.     
+- Ilaria RVC is a port of EasyGUI (<u>[Mangio</u>](https://aihubdocs.github.io/en/rvc/local/mangio/)) to <u>[Google Colab</u>](https://aihubdocs.github.io/en/other/glossary/#google-colab). Made by <u>[Ilaria](https://ko-fi.com/ilariaowo)</u>.     
 
-- Works for inferencing only, has a pretty UI, amazing speed, & the great tools that Mangio has (such as [<u>Mangio-Crepe</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm) algorithm).
+- Works for <u>[inferencing](https://aihubdocs.github.io/en/other/glossary/#inference)</u> only, has a pretty UI, huge speed, & the great tools that Mangio has (such as <u>[Mangio-Crepe](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm)</u> algorithm).
 
-- It's liked for being the fastest, free & of unlimited use way of inferencing via the cloud.       
+- And for this it's considered one of the best alternatives for doing inference through the cloud.       
 ‎               
 ### Pros & Cons :icon-tasklist:
-==- ***Tap to unfold 👈***
-!!! *The pros & cons are subjective to the level of experience and needs of the user.*
-You might disagree with some of the points made.
+==- ***Unfold***
+!!! *The pros & cons are subjective to your necessities.*        
 !!!
-||| **PROS** ✔️ 
-:icon-plus: Model download through links.    
-:icon-plus: Two extra TTS tools.     
-:icon-plus: UI is user-friendly for everyone.        
-:icon-plus: Mangio-Crepe algorithm.      
-:icon-plus: Takes a short time to set up.  
-:icon-plus: Very quick.  
-|||  **CONS** ❌  
-:icon-plus: Usage limit of 6 hours per day.     
-:icon-plus: Takes a bit of time to set up.
+||| **✔️ PROS:**  
+- Model download through links.    
+- Two extra TTS tools.     
+- Great UI.        
+- Has Mangio-Crepe.      
+- Doesn't take too long to load.  
+- Very quick.  
+||| ❌ **CONS**  
+- Usage limit for free users.     
+- Takes 3 minutes to set up.
 |||
 ===
 
 ***
 ###### ‎ 
 :::content-center
-## How to Use 📝
-:::
-!!! NOTES:
-• ‎ Ensure you have a stable Internet connection before proceeding.   
-• ‎ If you encounter an issue during the tutorial, read the [<u>Troubleshooting</u>](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#troubleshooting-) chapter below.
+## Inference
+
+!!!success
+If you encounter an issue, read the <u>[Troubleshooting</u>](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#troubleshooting-) chapter below.
 !!!
+:::
 
 ###### ‎ 
 #### 1. <u>Enter the space.</u>
-a. If you haven't already, first log in to your [<u>Google account</u>](https://accounts.google.com/). 
+a. First log in to your Google account <u>[here</u>](https://accounts.google.com/). 
 
-b. Then access the [<u>Colab space</u>](https://colab.research.google.com/drive/16LkwvFZeudTpUOsE_6bMjOq2qkxFo8Hr?usp=sharing).
+b. Then access the <u>[Colab space</u>](https://colab.research.google.com/drive/16LkwvFZeudTpUOsE_6bMjOq2qkxFo8Hr?usp=sharing).
 ***
 ###### ‎ 
 #### 2. <u>Set up space.</u>
-Execute the `Install Ilaria-RVC` cell, by pressing the play button, then `Run anyway`.       
-Ilaria RVC will begin to set up.    
-      
-<img src="../ilarvc-img/a.png" alt="image" width="250" height="auto">‎ ‎ ‎<img src="../ilarvc-img/b.png" alt="image" width="320" height="auto">‎               
-(If red text appears showing errors, ignore it, it's normal)
+- Execute the `Install Ilaria-RVC` cell, by pressing the play button, then `Run anyway`.  
 
+- Ilaria RVC will begin to set up.    
+
+    <img src="../ilarvc-img/a.png" alt="image" width="250" height="auto">‎ ‎ ‎<img src="../ilarvc-img/b.png" alt="image" width="320" height="auto">‎       
 ‎   
-It'll finish when the cell says `Done Cloning Repo`.
+- It'll finish when the cell says `Done Cloning Repo`.
 
-<img src="../ilarvc-img/d.png" alt="image" width="300" height="auto">
-
+    <img src="../ilarvc-img/d.png" alt="image" width="300" height="auto">‎         
+‎   
+!!!success
+If red text appears showing errors, ignore it, it's normal.
+!!!
 ***
 ###### ‎ 
 #### 3. <u>Open Gradio.</u> 
-Now execute the `Start` cell below.        
-After a bit it's going to show you two links. Open the **public URL** one, in a separate window.        
+a. Now execute the `Start` cell below.        
 
-The **Gradio** link contains the Ilaria RVC app.
+b. After a bit it's going to show you two links. Open the **gradio.live** one in a separate tab.        
 
 <img src="../ilarvc-img/e.png" alt="image" width="540" height="auto">       
 
 ‎       
-!!!warning Do not close the <u>Colab</u> tab until you are done.      
-If you do, you'll have to do this procedure again. Ilaria RVC needs it running in order to work.
+!!!warning Don't close the <u>Colab</u> tab until you're done using Ilaria RVC.      
+Otherwise you'll have to start again.
 !!!
 ***
 ###### ‎ 
 #### 4. <u>Download voice model.</u>
-a. After loading, close the bottom window & go to the ``Download Voice Models`` tab.     
+{.list-icon}
+- <img src="../ilarvc-img/3.png" alt="image" width="450" height="auto">
+a. In the Gradio, go to the ``Download Voice Models`` tab.     
 
-b. Paste the link of the model in the `Hugging Face Link` bar.      
-It must be a public link from either [**<u>Hugging Face</u>**](https://aihubdocs.github.io/en/other/glossary/#hugging-face) or **Google Drive**.
+b. Paste the link of the model in the `Hugging Face Link` bar. It must be a public link from either **Hugging Face**/**Google Drive**.
 
-c. In `Name of the model`, insert a name for it then click `Download`.        
+c. In `Name of the model`, insert a name for it. Don't include spaces/special characters.
 
-    <img src="../ilarvc-img/3.png" alt="image" width="450" height="auto">
+d. Then click `Download`.        
 
-!!!warning Don't name it with spaces/special characters, to avoid errors.
-Example: **"ariana_grande_2023"** and not **"ariana grande 2023 >.<!"**.    
-!!!
+
 ***
 ###### ‎ 
 #### 5. <u>Select model.</u>  
 a. Return to the `Inference` tab & click the upper pink `Refresh` button.
-b. Click the `Choose the model` dropdown  & select your model.
+b. Unfold the `Choose the model` dropdown & select your model.
 
     <img src="../ilarvc-img/4.png" alt="image" width="450" height="auto">
 ***
 ###### ‎ 
 #### 6. <u>Select your audio.</u>  
-Below it, in `Drag your audio file and click refresh`, click it to load your audio manually. Or just drag the file into it.         
+- Below it, in `Drag your audio file and click refresh`, click it to load your audio manually. Or just drag the file into it.         
 
-<img src="../ilarvc-img/5.png" alt="image" width="450" height="auto"> 
+    <img src="../ilarvc-img/5.png" alt="image" width="450" height="auto"> 
 
 ***
 ###### ‎ 
 #### 7. <u>Adjust settings.</u> (optional)    
-If you wish, you can modify the [<u>inference settings</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/) in `Index Settings` & `Advanced Options` for better results.   
-Tap them to unfold them.      
+- If you wish, you can modify the <u>[inference settings</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm) in `Index Settings` & `Advanced Options` for better results.   
+Tap them to unfold.      
 
-<img src="../ilarvc-img/6.png" alt="image" width="500" height="auto"> ‎                  
+    <img src="../ilarvc-img/6.png" alt="image" width="500" height="auto"> ‎                  
 ‎
 ***
 ###### ‎ 
 #### 8. <u>Convert.</u>     
-Click the upper `Convert` button and wait.
+- Click the upper `Convert` button & wait for the inference to finish.
 
-<img src="../ilarvc-img/7.png" alt="image" width="250" height="auto">   
+    <img src="../ilarvc-img/7.png" alt="image" width="250" height="auto">   
 
 ***
 ###### ‎ 
 #### 9. <u>Download output.</u>        
-Once it's done processing, a playable audio of the output will pop up.      
-Or tap the three buttons on the right of the audio and then `Download`.         
+- Once it's done processing, there will be a playable audio in the `Final Result!` box.  
 
-<img src="../ilarvc-img/8.png" alt="image" width="" height="auto">‎     
+- Tap the three buttons on the right of the audio and then `Download`.         
+
+    <img src="../ilarvc-img/8.png" alt="image" width="" height="auto">‎     
 ‎       
 
-#### *:icon-heart-fill: If you liked the app, please consider supporting Ilaria: [<u>https://ko-fi.com/ilariaowo</u>](https://ko-fi.com/ilariaowo) :icon-heart-fill:*  
-::: 
+***
+:::content-center
+[!button variant="danger" corners="pill" icon="heart-fill" iconAlign="right" text="Support Ilaria"](https://ko-fi.com/ilariaowo)
+:::
+‎
+:   ‎
+
+:::content-center
+## TTS
+#### *`and with an RVC model`*
+###### ‎
+:::
+1. First access the Gradio. If you don't know how, follow the first three steps of the <u>[previous chapter](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#inference</u>.
+***
+2. Go to the `IlariaTTS` section. 
+
+    <img src="../ilatts-img/1.png" alt="image" width="450" height="auto">‎     
+
+    If you want, you can use the other `ElevenLabs / Google TTS`.
+***
+3. In `Voice` pick a voice of the gender, language & accent that you wish. Under it, insert the text.      
+
+    If you're going to use an RVC model, pick one that sounds similar to it.
+***
+4. Press `Speak`. The TTS will begin to process.
+***
+5. Once it's done processing, there will be a playable audio in the `Final Result!` box.        
+At the right press the three dots & then `Download`.         
+
+    <img src="../ilarvc-img/8.png" alt="image" width="" height="auto">‎     
+     
+***
+6. To use an RVC model, simply upload the output to Ilaria RVC & convert it using your model. (Optional)        
+    If you don't know, learn <u>[here](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#inference)</u>.
+
 ***
 ###### ‎
+###### ‎
 :::content-center
-## Troubleshooting 🛠️
+## Troubleshooting :icon-tools:
 :::
-> ***I get a red popup saying `Error`.***   
-- Don't worry, it's normal. Try repeating your action.
+###### ‎
+==- *I get a red `Error` message.* 
+###### ‎ 
+- It's normal. Try repeating your action.          
+‎       
+- If it persists, reload the Gradio page.       
+‎       
+- Ensure your audio is selected in the `Choose the audio file`. If it's not in the list, click `Refresh` on its right & select it.      
+‎       
+- If it's still persisting, restart the Colab space:        
+    - Go to the Colab space and press the downward arrow ( :icon-triangle-down: ) at the top. 
+    - Click `Disconnect and delete all data`.
+    - Reload the page and load RVC again.
+===
 
-- If the error persists, reload the Gradio page. Click `Refresh` & ensure your audio is selected in the `Choose the audio file` dropdown. 
+==- *My model doesn't have a link from HF/GD.*
+###### ‎
+- You'll have to create the link yourself. Learn how <u>[here</u>](https://aihubdocs.github.io/en/essentials/uploading-models-to-hugging-face/).
+===
 
-- If it's still persisting, restart the Colab space.        
-For this, go to the Colab space. At the top click `Runtime`, then `Disconnect and delete all data`, & reload the page.
-***
-> ***My model doesn't have a link from HF/GD.***
-- Upload a **.ZIP** file of the model to Hugging Face as a **public** repo.
-- If you need help, click [<u>here</u>](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/).
-***
-> ***I can't download my model.***      
+==- *I can't download my model.* 
+###### ‎     
 - This could be due to a few reasons:     
 
-    1. **<u>Link is private</u>:** 
-        - **If you uploaded to GD:** ensure the `General access` is set as `Anyone with the link`.
-        - **If you uploaded to HF:** ensure the repo is set as `Public`. Learn more [<u>here</u>](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/).            
+    1. **Link is private:** 
+        - If it's from GD, ensure the `General access` is set as `Anyone with the link`.
+        - If it's from HF, ensure the repo is set as `Public`. Learn more <u><u>[here</u>](https://aihubdocs.github.io/en/essentials/uploading-models-to-hugging-face/)</u>.            
         ‎   
-    2. **<u>Invalid HF link:</u>**
+    2. **Invalid HF link:**
         - The HF link must contain the word "**.zip**".
-        - If the link contains the word `blob`, replace it for `resolve` and paste it.     
+        - If it contains the word `blob`, replace it for `resolve` & paste it.     
     ‎       
-    3. **<u>Incorrect files:</u>**
+    3. **Incorrect files:**
         - The model must be zipped in a **.ZIP** file. Not .RAR or .7ZIP.
-        - Ensure it contains the [<u>correct files</u>](https://aihubdocs.github.io/en/essentials/how-to-upload-models-to-hugging-face/).
+        - It must contain its correct .PTH & .INDEX files. Learn more <u>[here](https://aihubdocs.github.io/en/essentials/voice-models/#voice-model-files)</u>.
+===
 
-***
-> ***The voice glitches out. How do I fix it?***
-- This is an anomaly called "**artifacting**".           
-Learn more & fix [<u>here</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting--how-to-fix-it/).
-***
-> ***I couldn't find my answer, what now?***
-- Need help? Join AI Hub [<u>here</u>](https://discord.com/invite/aihub). Ask in the `#help-chat` or `help-forum` channels.
+==- *The voice glitches out.*
+###### ‎
+- This is an anomaly called "**artifacting**". Learn how to fix it <u><u>[here</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting/)</u>.
+===
+
+==- *I couldn't find my answer.*
+###### ‎
+- Join our server <u>[AI Hub</u>](https://discord.com/invite/aihub) & ask for help in `#help-chat`, or make a post in `help-forum`.
+===
 ***
 :::content-right
-||| *Did I miss anything?*        
-Send any feedback [<u>here</u>](https://forms.gle/5i6hTJRVkXRohvVF9) 👈
-|||
+`Written by Julia`   
 :::
+‎    
+:::content-right
+[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://forms.gle/3GVR7opzpQrhgRCj9)
+:::
+###### ‎ 
+###### ‎ 
+***

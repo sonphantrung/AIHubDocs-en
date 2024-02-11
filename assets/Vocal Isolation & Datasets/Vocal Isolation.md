@@ -55,11 +55,12 @@ Make sure to tick `🗹 Create a desktop shortcut` for an easier access to UVR.
 ### <u> How to Use</u> ‎ :icon-checklist:
 ###### ‎       
 !!!success NOTES:
-Click <u>[here</u>](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fpmi3ialjjca91.png%3Fwidth%3D1016%26format%3Dpng%26auto%3Dwebp%26s%3D0e75311422270753ebca68fe00eaf9ce6a81218b) for a graphic explanation of the buttons. Keep in mind, the post is outdated.
-:::
+Click <u>[here</u>](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fpmi3ialjjca91.png%3Fwidth%3D1016%26format%3Dpng%26auto%3Dwebp%26s%3D0e75311422270753ebca68fe00eaf9ce6a81218b) for a graphic explanation of the buttons. Keep in mind, the post is outdated
 
 If you come across a problem, read the <u>[Troubleshooting](https://aihubdocs.github.io/en/vocal-isolation--datasets/vocal-isolation/#troubleshooting--)</u> chapter.
 !!!
+:::
+
 ###### ‎           
 - ##### To extract & clean vocals from a <u>song</u>, read the `Extraction & Cleaning` guide.
 

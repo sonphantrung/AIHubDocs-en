@@ -69,6 +69,7 @@ You can also send an issue/pull request to our <u>[GitHub page](https://github.c
 - Local AICoverGen
 - AICoverGen UI
 - Other AI tools (chatbots, SD, TTS etc)
+- Pretrains
 
 ***
 ###### ‎      

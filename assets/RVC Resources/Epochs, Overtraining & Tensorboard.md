@@ -1,3 +1,7 @@
+---
+icon: chevron-right
+order: 6000
+---
 
 ``Last update: Feb 10, 2024``   
 ***
@@ -116,7 +120,7 @@ For <u>[RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/
         ‎       
         <img src="../tensorboard-img/15.png" alt="image" width="300" height="auto">‎    
 ‎       
-- To **zoom** in & out the graphs, press the **ALT** key + mouse wheel. Remember to center the view after moving around.
+- To **zoom** in & out the graphs, press the ALT key + mouse wheel. Remember to center the view after moving around, and after the graph updates.
 ***
  #### :icon-chevron-down: <u> MONITORING</u>
 ***
@@ -124,7 +128,7 @@ For <u>[RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/
 
 - You'll detect **OT** (overtraining) when the graph hits the **lowest point**, then stay **flat**/**rising** indefinitely.  
     ‎       
-     **<u>Example:</u>**
+     **<u>Example of OT for hours:</u>**
         
     <img src="../tensorboard-img/10.png" alt="image" width="370" height="auto">‎     
     ‎    

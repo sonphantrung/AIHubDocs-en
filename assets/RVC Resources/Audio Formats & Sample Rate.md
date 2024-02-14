@@ -1,4 +1,7 @@
-   
+---
+icon: chevron-right
+---
+
 ``Last update: Feb 10, 2024``   
 
 *** 
@@ -100,7 +103,7 @@ Converting a lossy audio to a lossless one won't restore the lost quality.
 
 ***
 :::content-right
-*`Written by Julia & Alex`*    
+`Written by Julia & Alex`   
 :::
 ‎  
 :::content-right

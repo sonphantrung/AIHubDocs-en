@@ -1,9 +1,14 @@
-``Last update: Feb 10, 2024`` 
+---
+icon: chevron-right
+order: 1000
+---
+
+``Last update: Feb 14, 2024`` 
 ‎  
 ***
 ###### ‎  
 :::content-center
-## Introduction
+## Introduction :icon-book:
 :::
 - AICoverGen NO UI is a port of the AICoverGen RVC <u>[fork</u>](https://aihubdocs.github.io/en/other/glossary/#fork) to <u>[Google Colab</u>](https://aihubdocs.github.io/en/other/glossary/#google-colab). Base notebook by <u>[Ardha27</u>](https://github.com/ardha27).    
 
@@ -35,7 +40,7 @@
 ***
 ###### ‎  
 :::content-center
-## How to Use
+## How to Use :icon-checklist:
 :::
 ###### ‎  
 #### 1. <u>Enter the space.</u>      

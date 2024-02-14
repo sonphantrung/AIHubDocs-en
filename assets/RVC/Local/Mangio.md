@@ -1,4 +1,9 @@
-``Last update: Feb 10, 2024``   
+---
+icon: chevron-right
+order: 2000
+---
+
+``Last update: Feb 14, 2024``   
  
 ***
 ###### ‎ 
@@ -321,7 +326,7 @@ c. Now go to the ``weights`` folder. Here you'll find the model's checkpoints.
 ***
 ###### ‎   
 :::content-center
-### <u>Retraining</u>
+### <u>Retraining</u> :icon-sync:
 :::
 ###### ‎       
 If the training finished but the model still needed training, you don't have to start from scratch.       

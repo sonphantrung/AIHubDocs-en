@@ -1,5 +1,9 @@
+---
+icon: chevron-right
+order: 4000
+---
 
-``Last update: Feb 9, 2024``
+``Last update: Feb 14, 2024``
 
 ***
 ###### ‎
@@ -280,7 +284,7 @@ The console will show you errors in case they happen, and information about the 
 ***
 ###### ‎  
 #### 14. Stop training.
-When you are very sure of overtraining, you can stop training by pressing the `Stop training` button where `Train model` used to be. 
+When you are very sure of overtraining, you can stop training by pressing the `Stop training` button where `Train model` used to be.        
 
 ***
 ###### ‎  
@@ -311,7 +315,7 @@ c. Now go to the ``weights`` folder. Here you'll find the model's checkpoints.
 ***
 ###### ‎   
 :::content-center
-### <u>Retraining</u>
+### <u>Retraining</u> :icon-sync:
 :::
 ###### ‎   
 If the training finished but the model still needed training, you don't have to start from scratch.       
@@ -353,6 +357,10 @@ If the training finished but the model still needed training, you don't have to 
 - This is because AI apps aren't compatible with these <u>[GPUs](https://aihubdocs.github.io/en/other/glossary/#gpu)</u>, only with NVIDIA.
 - Because of this, it's more prone to errors & you'll have to work with your CPU instead, which slows the process.
 - For <u>[inference](https://aihubdocs.github.io/en/other/glossary/#inference)</u>, it's best to use <u>[Ilaria RVC](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/)</u>. And for training models, <u>[RVC Disconnected](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/)</u> or <u>[Paperspace](https://aihubdocs.github.io/en/rvc/cloud/training/paperspace/)</u>.
+===
+
+==- *I can't see the Stop Training button.*
+- This is a common bug. Close the console to stop RVC entirely.
 ===
 ***
 :::content-right

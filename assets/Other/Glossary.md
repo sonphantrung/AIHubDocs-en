@@ -1,3 +1,7 @@
+---
+icon: chevron-right
+---
+
 ``Last update: Feb 10, 2024``
 ***
 :::content-center
@@ -71,7 +75,7 @@
 - The performance of the hardware of a computer directly correlates to the performance of all its software.
 ***
 :::content-right
-*``Written by Julia & Alex``*    
+``Written by Julia & Alex``    
 :::
 ‎   
 :::content-right

@@ -1,9 +1,14 @@
-``Last update: Feb 10, 2024``
+---
+icon: chevron-right
+order: 2000
+---
+
+``Last update: Feb 14, 2024``
 ‎ 
 ***  
 ###### ‎ 
 :::content-center
-## Introduction
+## Introduction :icon-book:
 :::
 - Ilaria RVC is a port of EasyGUI (<u>[Mangio</u>](https://aihubdocs.github.io/en/rvc/local/mangio/)) to <u>[Google Colab</u>](https://aihubdocs.github.io/en/other/glossary/#google-colab). Made by <u>[Ilaria](https://ko-fi.com/ilariaowo)</u>.     
 
@@ -31,7 +36,7 @@
 ***
 ###### ‎ 
 :::content-center
-## Inference
+## Inference :icon-unmute:
 
 !!!success
 If you encounter an issue, read the <u>[Troubleshooting</u>](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#troubleshooting-) chapter below.
@@ -42,7 +47,7 @@ If you encounter an issue, read the <u>[Troubleshooting</u>](https://aihubdocs.g
 #### 1. <u>Enter the space.</u>
 a. First log in to your Google account <u>[here</u>](https://accounts.google.com/). 
 
-b. Then access the <u>[Colab space</u>](https://colab.research.google.com/drive/16LkwvFZeudTpUOsE_6bMjOq2qkxFo8Hr?usp=sharing).
+b. Then access the <u>[Colab space</u>](https://colab.research.google.com/github/poiqazwsx/RVC-Notebooks/blob/main/Ilaria_RVC_Tempfix.ipynb).
 ***
 ###### ‎ 
 #### 2. <u>Set up space.</u>
@@ -79,7 +84,7 @@ Otherwise you'll have to start again.
 - <img src="../ilarvc-img/3.png" alt="image" width="450" height="auto">
 a. In the Gradio, go to the ``Download Voice Models`` tab.     
 
-b. Paste the link of the model in the `Hugging Face Link` bar. It must be a public link from either **Hugging Face**/**Google Drive**.
+b. Paste the <u>[link of the model](https://aihubdocs.github.io/en/essentials/voice-models/#how-to-search-voice-models)</u> in the `Hugging Face Link` bar. It must be a public link from either **Hugging Face**/**Google Drive**.
 
 c. In `Name of the model`, insert a name for it. Don't include spaces/special characters.
 
@@ -133,11 +138,11 @@ Tap them to unfold.
 :   ‎
 
 :::content-center
-## TTS
+## TTS :icon-megaphone:
 #### *`and with an RVC model`*
 ###### ‎
 :::
-1. First access the Gradio. If you don't know how, follow the first three steps of the <u>[previous chapter](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#inference</u>.
+1. First access the Gradio. If you don't know how, follow the first three steps of the <u>[previous chapter](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#inference)</u>.
 ***
 2. Go to the `IlariaTTS` section. 
 

@@ -1,3 +1,7 @@
+---
+icon: chevron-right
+---
+
 ``Last update: Jan 9, 2024``   
 ***
 ###### ‎
@@ -108,7 +112,7 @@
 - Have a drink at your side to not dehydrate.
 ***
 :::content-right
-*``Written by Julia, Faze Masta & Litsa``* 
+``Written by Julia, Faze Masta & Litsa``
 :::
 ‎     
 :::content-right

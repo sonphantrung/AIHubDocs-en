@@ -1,3 +1,9 @@
+---
+icon: chevron-right
+
+order: 2000
+---
+
 # :icon-upload: Uploading Models to Hugging Face
 
 ``Last update: Feb 10, 2024``

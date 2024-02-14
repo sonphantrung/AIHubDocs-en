@@ -1,6 +1,12 @@
+---
+icon: chevron-right
+
+order: 6000
+---
+
 # :icon-unmute: How to Make AI Cover
 
-``Last update: Feb 14, 2024``
+``Last update: Feb 9, 2024``
 
 ***
 :::content-center
@@ -68,6 +74,7 @@ Search some of their mixing tutorials on YouTube.
 >• Use compressor on vocals.        
 
 ***
+
 :::content-right
 `Written by Julia`
 :::
@@ -76,5 +83,5 @@ Search some of their mixing tutorials on YouTube.
 [!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://forms.gle/3GVR7opzpQrhgRCj9)
 :::
 ‎   
-‎  
+‎       
 ***

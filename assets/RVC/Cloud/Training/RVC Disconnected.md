@@ -1,5 +1,8 @@
+---
+icon: chevron-right
+---
 
-``Last update: Feb 9, 2024``
+``Last update: Feb 14, 2024``
 ***
 ###### ‎
 :::content-center
@@ -35,7 +38,7 @@
 ***
 ###### ‎ 
 :::content-center
-## How to Train
+## How to Train :icon-dependabot:
 
 ###### ‎ 
 !!!warning IMPORTANT NOTE:
@@ -138,14 +141,14 @@ b. To download it, open `rvcDisconnected` in GD. Open the folder named after the
 
 `batch_size`
 :   Use ``8`` if you are a newbie.
-But if your dataset is small (around 2 minutes or less), usa ``4``.
+But if your dataset is small (around 2 minutes or less), use ``4``.
  
 ***
 ###### ‎ 
 #### 7. Begin training
 - Execute the `Training` cell to begin the training. Be patient, it may take hours.
 
-- <u>[TB](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#tensorboard)</u> will open up after a few seconds, remember to monitor it.             
+- <u>[TB](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#tensorboard)</u> will open up after a few seconds, remember to monitor it. The graphs will take a minute to appear.
 
 - The cell will be showing you information about the epochs & when the checkpoints happen.      
 ‎   
@@ -175,13 +178,18 @@ And that's all. Have fun with your model. Remember to move them to a new folder 
 To test it, do a normal <u>[inference](https://aihubdocs.github.io/en/essentials/how-to-make-ai-cover/)</u> as usual.
 
 ***
+:::content-center
 ###### ‎  
-### Retraining
+## Retraining :icon-sync:
+:::
+###### ‎    
+- If the training finished but the model still needed training, you don't need to start from scratch.     
+You can continue from latest checkpoint, and the process is pretty easy.
 
-If the training finished but the model still needed training, you don't need to start from scratch.     
+- Depending on if you want to retrain from the same account or switch to another one, the process is a little different.
 
-##### <u>Instructions:</u>
-
++++ Retraining
+###### ‎  
 1. Go to the Colab space & input the same data as before, & execute the cells like normal, <u>except</u> ``Preprocessing`` & ``Feature Extraction``.    
 
 2. Execute the `Load preprocessed dataset files` cell.   
@@ -195,7 +203,32 @@ If the training finished but the model still needed training, you don't need to 
 4. You can change the `save_frequency` or increase the `total_epochs`, in case you didn't input enough before.
 
 5. Run the `Training` cell to retrain. Remember to monitor <u>[TB</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#tensorboard) as before.
-***
+
++++ Switching Account
+###### ‎  
+1. Execute the `Export Model` cell.
+
+    <img src="../rvcdisconnected-img/21.png" alt="image" width="450" height="auto">‎  
+
+2. In GD, download the `rvcDisconnected` folder on your device.
+
+3. Move the folder to your other account's GD storage. Make sure it's in the `My Drive` unit.
+
+4. Open RVC-D with the other account. Input the same data as before & execute the cells from start like normal, <u>except</u> ``Preprocessing`` & ``Feature Extraction``.    
+
+5. Execute the `Load preprocessed dataset files` cell.   
+
+    <img src="../rvcdisconnected-img/14.png" alt="image" width="450" height="auto">‎  
+‎       
+6. Go to the `Import Model from Drive to Notebook` cell. In `STEPCOUNT` introduce ``2333333`` & execute it.    
+
+    <img src="../rvcdisconnected-img/16.png" alt="image" width="450" height="auto">‎  
+    ‎       
+7. You can change the `save_frequency` or increase the `total_epochs`, in case you didn't input enough before.
+
+8. Run the `Training` cell to retrain. Remember to monitor <u>[TB</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#tensorboard) as before.
++++
+
 ###### ‎
 :::content-center
 ``Original guide: Angetyde``     

@@ -12,7 +12,7 @@ order: 3000
 :   ‎
 :::   
 :::content-center
-## What is a Voice Model?
+## What is a Voice Model
 :::
 ###### ‎
 - ***In the field of AI***, is a program that was trained to recognize certain patterns or make certain decisions.
@@ -211,7 +211,7 @@ If you need it as a **link**, upload it yourself. Learn <u>[here</u>](https://ai
 !!!
 +++
 ##### ‎ 
-#### If you couldn't find the model, you have 3 options::    
+#### If you couldn't find the model, you have 3 options:   
 - Make the model yourself
 - Pick a different one
 - Pay a model maker to make it for you.          

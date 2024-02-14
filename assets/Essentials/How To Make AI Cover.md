@@ -1,6 +1,6 @@
 # :icon-unmute: How to Make AI Cover
 
-``Last update: Feb 9, 2024``
+``Last update: Feb 14, 2024``
 
 ***
 :::content-center
@@ -47,9 +47,9 @@ Now let's begin with the steps.
 Pick according to your needs:
 
     {.list-icon}   
-    - #### :icon-device-desktop: ‎ For <u>[local users](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/)</u>
+    - #### :icon-device-desktop: ‎ <u>[For local users](https://aihubdocs.github.io/en/rvc/local/mainline/)</u>
 
-    - #### :icon-cloud: ‎ For <u>[cloud users](https://aihubdocs.github.io/en/rvc/local/mainline/)</u>
+    - #### :icon-cloud: ‎ <u>[For cloud users](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/)</u>
 ***
 ###### ‎
 ### 4. Mixing tips (extra)

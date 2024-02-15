@@ -47,7 +47,7 @@ If you encounter an issue, read the <u>[Troubleshooting</u>](https://aihubdocs.g
 #### 1. <u>Enter the space.</u>
 a. First log in to your Google account <u>[here</u>](https://accounts.google.com/). 
 
-b. Then access the <u>[Colab space</u>](https://colab.research.google.com/github/poiqazwsx/RVC-Notebooks/blob/main/Ilaria_RVC_Tempfix.ipynb).
+b. Then access the <u>[Colab space</u>](https://colab.research.google.com/drive/16LkwvFZeudTpUOsE_6bMjOq2qkxFo8Hr?usp=sharing).
 ***
 ###### ‎ 
 #### 2. <u>Set up space.</u>

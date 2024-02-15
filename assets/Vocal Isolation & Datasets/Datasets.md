@@ -2,7 +2,7 @@
 icon: chevron-right
 ---
 
-``Last update: Jan 9, 2024``   
+``Last update: Jan 14, 2024``   
 ***
 ###### ‎
 :::content-center
@@ -52,7 +52,7 @@ icon: chevron-right
     ‎     
 
     {.list-icon}  
-    #### Paso 1: Noise Gate.   
+    #### Step 1: Noise Gate.   
     - First input your dataset by dragging the audio file into the app.     
 
     - Press CTRL + A to select the whole audio.       

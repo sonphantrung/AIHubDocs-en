@@ -15,7 +15,7 @@ icon: chevron-right
 
 - The goal is to get an audio sample with clean vocals, which is what RVC needs to give the most accurate & quality results.
 
-- For RVC users, the best app is Ultimate Vocal Remover 5. It can be used either <u>[locally](https://aihubdocs.github.io/en/other/glossary/#local-running)</u> or through the <u>[cloud](https://aihubdocs.github.io/en/other/glossary/#cloud-based)</u>. 
+- For RVC users, the best app is Ultimate Vocal Remover 5 (or **UVR**). It can be used either <u>[locally](https://aihubdocs.github.io/en/other/glossary/#local-running)</u> or through the <u>[cloud](https://aihubdocs.github.io/en/other/glossary/#cloud-based)</u>. 
 ***
 <img src="../uvrmvsep-img/3.jpg" alt="image" width="" height="auto">‎       
 
@@ -208,11 +208,15 @@ Click the `Start processing` button at the bottom. And that will be all.
 
 ==- *UVR extracted too little/too much.*
 ###### ‎
-- For the VR method, you can modify the `Aggression Setting` on the right. This determines the depth of the extraction.
-- A higher value will deepen it, and a lower one will soften it.
+- Modify the `Aggression Setting` value on the right. 
+- This determines the depth of the extraction. Only the VR method has it.
+- A higher value will deepen the extraction, and a lower one will soften it.
+- Each audio is different, so you'll have to test the ideal value.
+- If it didn't extract enough, we recommend to increase it by 5 with each test, until you find the right spot (10 -> 15 -> 20 -> 25, etc.)
 ===
 
 ==- *I can't remove some of the backing vocals.*
+###### ‎
 - Run the audio through MDX23C or DeNoise. Modify the Aggression Setting if necessary.
 ===
 
@@ -229,7 +233,7 @@ Click the `Start processing` button at the bottom. And that will be all.
 
 1. First log in to your Google account <u>[here](https://accounts.google.com/)</u>.
 ***
-2. Then access the Colab space <u>[here](https://colab.research.google.com/github/Eddycrack864/Ultimate-Vocal-Remover-5.6-for-Google-Colab/blob/main/Ultimate_Vocal_Remover_5_6_for_Google_Colab.ipynb)</u>.
+2. Then access the Colab space <u>[here](https://colab.research.google.com/github/Eddycrack864/Ultimate-Vocal-Remover-5.6-for-Google-Colab/blob/main/Ultimate_Vocal_Remover_5_6_for_Google_Colab.ipynb)</u>. Credits to <u>[Eddy](https://github.com/Eddycrack864)</u> for the Colab.
 ***
 3. Execute the `Install` cell. UVR will start loading & will take between 5 to 10 minutes.
 
@@ -362,8 +366,10 @@ If you're extracting lead vocals, remember to download the backing ones if you w
 ###### ‎
 ==- *UVR extracted too little/too much.*
 ###### ‎
-- For the VR method, you can modify the `Aggression Setting` on the right. This determines the depth of the extraction.
-- A higher value will deepen it, and a lower one will soften it.
+- Modify the `Aggression Setting` value on the right. 
+- This determines the depth of the extraction. Only the VR method has it.
+- A higher value will deepen the extraction, and a lower one will soften it.
+- Each audio is different, so you'll have to test the ideal value.
 ===
 
 ==- *I can't remove some of the backing vocals.*
@@ -564,10 +570,12 @@ b. Tap the three dots of the audio you need and then `Download`. If you wish to 
 ###### ‎ 
 - Using the **Separation Type** of `Ultimate Vocal Remover HQ`, you can modify the `Aggressiveness` value. 
 This determines the depth of the extraction.
-- A higher value will deepen it, & a smaller one will soften it.
+- A higher value will deepen the extraction, and a lower one will soften it.
+- Each audio is different, so you'll have to test the ideal value.
 ===
 
 ==- *I can't remove some of the backing vocals.*
+###### ‎ 
 - Try running the audio through MDX23C or DeNoise. Modify the Aggression Setting if necessary.
 ===
 
@@ -597,7 +605,7 @@ Noise | Ultimate Vocal Remover 5 HQ | UVR-DeNoise
 :::
 ‎     
 :::content-right
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://forms.gle/3GVR7opzpQrhgRCj9)   
+[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)   
 ::: 
 ‎     
 ‎  

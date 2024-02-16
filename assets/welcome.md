@@ -52,10 +52,13 @@ icon: home-fill
 - This website is a beginner-friendly documentation of **RVC** (Retrieval-based Voice Conversion) & related apps, made by members of the [<u>**AI Hub**</u>](https://discord.com/invite/aihub) community.
 
 - You'll find **simple & convenient guides**, verified by experts in RVC.       
-<u>Topics include</u>: model training, inference, audio isolation, datasets, TensorBoard, & more. For **all** devices.
+<u>Topics include</u>: model training, inference, audio isolation, datasets, TensorBoard, & more. For **all** devices.      
+‎    
+#### Contributions :icon-code-of-conduct:
+- We are in early development, so we'll appreciate any **feedback**, big or small.      
+<u>Contact us on Discord</u>: ‎ **@ailen2091** ‎ **@eddycrack864**
 
-- We are in early development, so we'll appreciate any **feedback**, big or small. Send your ideas <u>[**here**](https://forms.gle/3GVR7opzpQrhgRCj9)</u>.     
-You can also send an issue/pull request to our <u>[GitHub page](https://github.com/AIHubDocs)</u>.
+- You can also send an issue/pull request to our <u>[GitHub page](https://github.com/AIHubDocs)</u>.
 ***
 ###### ‎     
 ## To-Do List :icon-checklist:
@@ -65,7 +68,6 @@ You can also send an issue/pull request to our <u>[GitHub page](https://github.c
 - Advanced TB use
 - Advanced dataset cleaning
 - Reform Automaze commands
-- UVR Colab page
 - Local AICoverGen
 - AICoverGen UI
 - Other AI tools (chatbots, SD, TTS etc)
@@ -73,7 +75,7 @@ You can also send an issue/pull request to our <u>[GitHub page](https://github.c
 
 ***
 ###### ‎      
-## Credits :icon-code-of-conduct:
+## Credits :icon-heart:
 - **Lead by:** Julia & Eddy       
 - **General Help:** Poopmaster, Raid, Light, Faze Masta, Alexolotl, Delik     
 - **Reviewing:** Faze Masta, Alexolotl, SimplCup, Delik, Litsa        
@@ -86,7 +88,7 @@ You can also send an issue/pull request to our <u>[GitHub page](https://github.c
 :::   
 ‎    
 :::content-right      
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://forms.gle/3GVR7opzpQrhgRCj9)     
+[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)     
 ::: 
 ‎  
 ‎        

@@ -237,6 +237,6 @@ You can continue from latest checkpoint, and the process is pretty easy.
 ``Re-done by: Julia, Eddy, Poopmaster & Light``      
 :::
 :::content-center
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://forms.gle/3GVR7opzpQrhgRCj9)
+[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)
 :::  
 ***

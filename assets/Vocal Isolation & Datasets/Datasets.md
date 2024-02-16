@@ -116,7 +116,7 @@ icon: chevron-right
 :::
 ‎     
 :::content-right
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://forms.gle/3GVR7opzpQrhgRCj9)
+[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)
 :::
 ‎     
 ‎      

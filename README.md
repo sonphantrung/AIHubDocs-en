@@ -6,8 +6,8 @@
 <u>Topics include</u>: model training, inference, audio isolation, datasets, TensorBoard, & more. Either locally or through the cloud.
 
 ## Contributions
-- We are in early development, so we'll appreciate any feedback, big or small. Send your ideas [here](https://forms.gle/3GVR7opzpQrhgRCj9).   
-
+- We are in early development, so we'll appreciate any feedback, big or small.      
+For suggestions/help, <u>contact us on Discord</u>: **@ailen2091** ‎ **@eddycrack864**
 - You can also send an issue/pull request to our GitHub.
 
 ## License

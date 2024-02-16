@@ -156,6 +156,6 @@ For <u>[RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/
 `Written by Julia, SimplCup, Litsa & Poopmaster`    
 :::
 :::content-center
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://forms.gle/3GVR7opzpQrhgRCj9)
+[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)
 :::
 ***

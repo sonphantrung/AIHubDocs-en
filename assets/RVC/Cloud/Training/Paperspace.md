@@ -121,6 +121,6 @@ On the other hand, on Colab, it might take around 7 hours (without considering t
 `Redone by: Julia & Leo`
 :::
 :::content-center
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://forms.gle/3GVR7opzpQrhgRCj9)
+[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)
 :::
 ***

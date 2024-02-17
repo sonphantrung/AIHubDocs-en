@@ -6,7 +6,7 @@ order: 6000
 
 # :icon-unmute: How to Make AI Cover
 
-``Last update: Feb 9, 2024``
+``Last update: Feb 16, 2024``
 
 ***
 :::content-center
@@ -47,7 +47,7 @@ Now let's begin with the steps.
 ***
 ###### ‎
 ### 3. Convert the vocals
-- After obtaining the vocals & model, it's time to set up RVC & and do <u>[***inference***](https://aihubdocs.github.io/en/other/glossary/#inference)</u>.
+- After obtaining the vocals & model, it's time to set up RVC & do <u>[***inference***](https://aihubdocs.github.io/en/other/glossary/#inference)</u>.
 
 - There are plenty of versions of RVC, but these are the best ones for beginners.      
 Pick according to your needs:

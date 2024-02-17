@@ -3,7 +3,7 @@ icon: chevron-right
 order: 1000
 ---
 
-``Last update: Feb 14, 2024`` 
+``Last update: Feb 17, 2024`` 
 ‎  
 ***
 ###### ‎  
@@ -14,7 +14,7 @@ order: 1000
 
 - This version (**Eddy's Version**) is an upgrade from the original Colab space, bringing bug fixes, improvements, & extra features. Credits to Eddy & Raid.
 
-- Because of its **quick** <u>[inference](https://aihubdocs.github.io/en/other/glossary/#inference)</u>, automatic vocal extraction, & compatibility with YouTube links, it's considered one of the best Colab spaces for inferencing in RVC.        
+- It's ideal for users who want '*quick & dirty*' AI covers, as the whole process is automated. You can input a YouTube link and the vocal isolation & song mixing process will be automatized.
 ‎               
 ### Pros & Cons :icon-tasklist:
 ==- ***Unfold***
@@ -30,7 +30,7 @@ order: 1000
 - Automatic stem separation (can get each later).
 ||| **❌ CONS:**       
 - Usage limit for free users.           
-- Takes 10-15 mins to load.        
+- Takes 6 mins to load.        
 - UI is not great.  
 - No control over the stem separation process. Could be a problem.
 - Said extraction will always run. You'll waste time if you input clean vocals. 
@@ -172,17 +172,12 @@ It'll be done when the last message says "**Cover generated at**" followed by th
 ###### ‎   
 #### 9. <u>Download the output.</u>     
 a. Click the folder symbol ( :icon-file-directory: ) on the right.      
-Open the `content` folder, then `FIX`, `song_output`, & you'll see a folder with a bunch of numbers, containing the results and some stems.
+Open the `content` folder, then `FIX`, `song_output`, & the folder with a bunch of numbers.
 
-    The inferred vocals will be named with the **algorithm** that you chose (Crepe or RMVPE), followed by "**mixed**" at the end.     
-
-b. Right-click the audio, press `Download` & that's all.       
+b. Right-click the first file & press `Download`. The rest of the audios are the stems, that you can download too if you wish.
 
     <img src="../aicovergen-img/10.png" alt="image" width="550" height="auto">‎   
 
-    !!!
-    If you want the output without `REMIX_MIX_RATE`'s influence, use the one without "mixed" at the end.  
-    !!!
 ###### ‎  
 - #### If the voice glitches out, click <u>[here</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting/).
 ***

@@ -19,7 +19,7 @@ Before you begin, make sure you have the following:
 ## Steps
 
 1. **Upload Your Image**
-   - Go to [Hugging Face](https://huggingface.co/).
+   - Go to the [Illusion Diffusion Hugging Face  Space](https://huggingface.co/spaces/AP123/IllusionDiffusion).
    - Click on "Input Illusion."
    - Upload the image you want to hide inside another image.
 

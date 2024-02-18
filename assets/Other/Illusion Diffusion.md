@@ -9,7 +9,7 @@ icon: chevron-right
 # Creating Subliminal Images Online for FREE with Hugging Face
 
 ## Introduction
-Have you ever wanted to merge two images to create a subliminal message? Or perhaps you're intrigued by the idea of an illusion where a hidden image becomes visible when you blur your eyes. Look no further! In this guide, we'll walk you through the process using Hugging Face's "Input Illusion" feature.
+Have you ever wanted to merge two images to create a subliminal message? Or perhaps you're intrigued by the idea of an illusion where a hidden image becomes visible when you blur your eyes? Here's a guide for that!
 
 ## Prerequisites
 Before you begin, make sure you have the following:

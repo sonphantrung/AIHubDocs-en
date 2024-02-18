@@ -32,7 +32,8 @@ icon: chevron-right
 +++ ‎ Installation :icon-download: 
 ###### ‎ 
 !!!warning 
-*You'll require great specs & GPU to run it effectively. Otherwise, use the <u>[Cloud Version](https://aihubdocs.github.io/en/vocal-isolation--datasets/vocal-isolation/#cloud-version--).
+*You'll require great specs & GPU to run it effectively. Otherwise, use the <u>[Cloud Version](https://aihubdocs.github.io/en/vocal-isolation--datasets/vocal-isolation/#cloud-version--)</u>.
+!!!
 ***
   
 1. Go to their <u>[official website</u>](https://ultimatevocalremover.com/) & press `Download UVR`. 

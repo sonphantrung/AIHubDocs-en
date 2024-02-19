@@ -138,13 +138,14 @@ You can listen to the audio sample to get a preview of the it.
 
 <img src="../searchrvcmodels-img/6.png" alt="image" width="480" height="auto"> 
 
-+++ ModelAI bot
++++ Applio Bot
 :::content-center
 ### <u>Description</u>  
 :::
-- This is a Discord bot that searches models uploaded on various AI Hub servers.
-- As well as the model database of the AI Hub server & voice-models channel
-- Developed by user **Iroak**.
+:::
+- This is a Discord bot.
+- It searches the models uploaded on every RVC/AI Hub Discord server.
+- Developed by the IA Hispano team.
 ***
 ###### ‎
 :::content-center
@@ -159,7 +160,7 @@ Head over to the ``#search-models`` channel.
 #### 2. Type command.        
 ##### <u>In the chat:</u>
 - Type ``/search``
-- Select the **ModelAI** command
+- Select the **Applio** command
 - Type the name of your model
 - Send the message
 
@@ -170,13 +171,15 @@ Head over to the ``#search-models`` channel.
 #### 3. <u>Download model</u>.
    <img src="../searchrvcmodels-img/7.png" alt="image" width="400" height="auto"> ‎    
 ‎   
-- ⬇️‎ Click ``Download Model`` to **download it** it.        
+- 📤‎ Click ``Download`` to **download** it.        
 
 - 🔗‎ To get its **link**, right-click ``Download Model`` and tap ``Copy link``.      
 
-- 🔎‎ If there are **multiple** results, click the ``List of found models`` bar to see other results.     
+- 👀‎ If there are **multiple** models, click the ``Select a result`` bar to see the others.     
 
-- 💾‎ With the ``Save`` button the bot will DM you said result, if you want to save it.      
+- 👍‎ Press the `Like` to support the creator & offer feedback.
+
+- 💾‎ With the `Save` one the bot will DM you said search result.  
 
 +++ Hugging Face search
 :::content-center

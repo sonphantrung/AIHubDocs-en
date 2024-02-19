@@ -140,9 +140,14 @@ You can listen to the audio sample to get a preview of the it.
 
 +++ Applio Bot
 :::content-center
+<img src="../searchrvcmodels-img/applio.png" alt="image" width="200" height="auto"> 
+:::
+***
+
+:::content-center
 ### <u>Description</u>  
 :::
-:::
+
 - This is a Discord bot.
 - It searches the models uploaded on every RVC/AI Hub Discord server.
 - Developed by the IA Hispano team.

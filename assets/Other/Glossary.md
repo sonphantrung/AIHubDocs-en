@@ -45,7 +45,7 @@ icon: chevron-right
 
 - Cloud RVC users mainly use it for the RVC ports, like <u>[AICoverGen NO UI](https://aihubdocs.github.io/en/rvc/cloud/inference/aicovergen-no-ui/)</u>, <u>[Ilaria RVC</u>](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/), & <u>[RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/).    
 
-- It's free version is slower & with a usage limit of **6 hours per day**. When you ran out of it you'll have to wait 24 hours, or switch to another account.
+- It's free version is slower & with a usage limit of **4 hours per day**. When you ran out of it you'll have to wait 24 hours, or switch to another account.
 
 - You can upgrade to a paid option for a better version too. 
 ***

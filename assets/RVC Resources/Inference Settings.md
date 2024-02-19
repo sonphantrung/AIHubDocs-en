@@ -100,7 +100,7 @@ order: 4000
     - It's crepe, but you can adjust its **hop_length**
     - It determines the time it takes the voice to hit a note
     - The lower the value, the more detailed results you'll get, but will take longer to process
-    - Useful when the audio/model performs drastic notes from note to note
+    - Useful when the audio/model performs drastic note shifts
     ###### ‎ 
     >Lowering it too much might lead to voice cracks.
 

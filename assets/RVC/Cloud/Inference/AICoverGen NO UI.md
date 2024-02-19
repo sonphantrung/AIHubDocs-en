@@ -171,8 +171,10 @@ It'll be done when the last message says "**Cover generated at**" followed by th
 ***
 ###### ‎   
 #### 9. <u>Download the output.</u>     
-a. Click the folder symbol ( :icon-file-directory: ) on the right.      
-Open the `song_output` & then the one with a bunch of numbers.
+a. Click the folder symbol ( :icon-file-directory: ) on the right.    
+(For mobile users: tap the three lines on the top left & `Show file browser`)     
+
+    Open the `song_output` & then the one with a bunch of numbers.
 
 b. Right-click the first file & press `Download`. The rest of the audios are the stems, that you can download too if you wish.
 

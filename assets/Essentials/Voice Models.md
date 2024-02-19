@@ -169,7 +169,7 @@ Head over to the ``#search-models`` channel.
 - Type the name of your model
 - Send the message
 
-<img src="../searchrvcmodels-img/8.png" alt="image" width="420" height="auto"> 
+<img src="../searchrvcmodels-img/8.png" alt="image" width="340" height="auto"> 
 
 ***     
 ###### ‎

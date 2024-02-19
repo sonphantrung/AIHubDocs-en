@@ -163,7 +163,10 @@ But if your dataset is small (around 2 minutes or less), use ``4``.
 #### 8. Download model. 
 - Once you are sure of overtraining, you can stop training by pressing the stop button of the ``Training`` cell.     
 
-- Click the folder symbol on the right, open the ``Mangio-RVC-Fork`` folder, then `weights`. There you'll find the model's checkpoints.    
+- Click the folder symbol on the right.    
+(For mobile users: tap the three lines on the top left & `Show file browser`)
+
+- Open the ``Mangio-RVC-Fork`` folder, then `weights`. There you'll find the model's checkpoints.    
 
     <img src="../rvcdisconnected-img/20.png" alt="image" width="210" height="auto">‎    
 ‎   

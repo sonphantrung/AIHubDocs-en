@@ -61,7 +61,7 @@ Converting a lossy audio to a lossless one won't restore the lost quality.
         Enter the HF space <u>[here</u>](https://huggingface.co/spaces/TheStinger/Ilaria_Audio_Analyzer).        
     ***
     - ##### STEP 2:   
-        Press the box on the right to input your audio. Or just simply drag the file to it.       
+        Press the box on the left to input your audio. Or just simply drag the file to it.       
         Then click `Create Spectrogram and Get Info`.  
 
         <img src="../audioformats-img/1.png" alt="image" width="500" height="auto">‎   

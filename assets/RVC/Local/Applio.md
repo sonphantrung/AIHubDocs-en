@@ -267,7 +267,7 @@ It'll finish when it says `extracted successfully`.
 ###### ‎  
 - Press `Start Training` to begin the training process.     
 ‎   
-- Remember to monitor <u>[TB](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#tensorboard)</u>, & also the console just in case.          
+- To open <u>[TB](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#tensorboard)</u>, execute `run-tensorboard` in Applio's folder. Remember to monitor it, as well as the console just in case.           
 ‎   
 - The latter will show you errors if they happen, and information about the epochs & checkpoints.   
 

@@ -21,7 +21,7 @@ order: 5000
 
 - Because of its user-friendly experience & active development, it's considered to be one of the best forks.     
 
-- It also has a <u>[cloud version](https://colab.research.google.com/github/iahispano/applio/blob/master/assets/Applio.ipynb)</u>, in case you don't meet the minimum requirements to run it locally.     
+- It also has a <u>[cloud version](https://colab.research.google.com/github/iahispano/applio/blob/master/assets/Applio.ipynb)</u>, in case you don't meet the requirements to run it locally.     
 ‎      
 #### Pros & Cons :icon-tasklist:
 ==- *Learn more*

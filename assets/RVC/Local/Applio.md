@@ -119,8 +119,8 @@ b. Select your model in the ``Voice Model`` dropdown.
 
     +++ In batches
     a. Go to the **Batch** tab.     
-    ‎   
-        <img src="..\applio-img/3-Batch-upload.png" alt="image" width="400">‎         
+    ‎
+        <img src="..\applio-img/batchupload.png" alt="image" width="400">    
     
     b. In the `Input Folder` bar, paste the path folder containing the audios.
 
@@ -445,7 +445,7 @@ If the frequencies don't reach the top of the spectrogram, see at which number p
    <img src="../applio-img/7-plugindl.png" alt="image" width="530" height="auto">‎ 
 ***
 ###### ‎
-3. Go to the <u>[**Settings**](https://aihubdocs.github.io:5000/en/rvc/local/applio/#settings)</u> tab & click **Restart Applio** at the bottom. 
+3. Go to the settings tab & click **Restart Applio** at the bottom. 
 Then you'll be able to see the plugin in the **Plugins** tab.
 
    <img src="../applio-img/7-plugindled.png" alt="image" width="420" height="auto">‎ 

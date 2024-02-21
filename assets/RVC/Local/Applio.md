@@ -300,7 +300,7 @@ iii. Select the **.INDEX** named ``added_`` & move it to your newly made folder.
 ###### ‎  
 ##### c. Get the PTH
 ###### ‎  
-i. In said folder ``weights`` you'll also find all the checkpoints.         
+i. In said folder you'll also find all the checkpoints.         
 ‎  
 ii. Select the one **closest** to ***before*** the overtraining point, and move it to the new folder.
 

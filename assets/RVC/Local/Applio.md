@@ -177,7 +177,7 @@ Don't include spaces/special characters.
 ###### ‎     
 ##### c. Sampling Rate
 ###### ‎    
-- Select your model's sample rate. If you don't the amount, click <u>[here](https://aihubdocs.github.io/en/rvc/local/applio/#extra)</u>.
+- Select your model's sample rate. If you don't know the amount, click <u>[here](https://aihubdocs.github.io/en/rvc/local/applio/#extra)</u>.
 
     <img src="..\applio-img\4-samplerate.png" alt="image" width="300">‎  
 

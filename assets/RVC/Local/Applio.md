@@ -129,7 +129,7 @@ b. Select your model in the ``Voice Model`` dropdown.
 
 ‎  
 #### 4. Modify settings. (optional)      
--  Unfold `Advanced Settings` if you wish to modify the <u>[inference settings]()</u> for better results, or to determine the output folder.
+-  Unfold `Advanced Settings` if you wish to modify the <u>[inference settings](https://aihubdocs.github.io/en/rvc-resources/inference-settings/)</u> for better results, or to determine the output folder.
 
     <img src="..\Applio-img/3-advanced.png" alt="image" width="600">‎   
 ***
@@ -177,7 +177,7 @@ Don't include spaces/special characters.
 ###### ‎     
 ##### c. Sampling Rate
 ###### ‎    
-- Select your model's sample rate. If you don't the amount, click <u>[here]()</u>.
+- Select your model's sample rate. If you don't the amount, click <u>[here](https://aihubdocs.github.io/en/rvc/local/applio/#extra)</u>.
 
     <img src="..\applio-img\4-samplerate.png" alt="image" width="300">‎  
 
@@ -335,7 +335,7 @@ iii. And that's all, have fun with your model. To test it, do a normal <u>[infer
 
 - You can also use it with **RVC models** & apply the <u>[inference settings](https://aihubdocs.github.io/en/rvc-resources/inference-settings/)</u> if you wish.
 
-- Aditionally, you can download the **Eleven Labs** TTS <u>[plugin](http://localhost:5000/en/rvc/local/applio/#plugins)</u>.       
+- Aditionally, you can download the **Eleven Labs** TTS <u>[plugin](https://aihubdocs.github.io/en/rvc/local/applio/#plugins)</u>.       
 ***
 ###### ‎  
 #### <u>Instructions:</u>
@@ -350,7 +350,7 @@ iii. And that's all, have fun with your model. To test it, do a normal <u>[infer
 
    <img src="../applio-img/5-vm.png" alt="image" width="600" height="auto">‎    
 ‎             
-- To modify the <u>[inference settings]()</u> or the output folder for the TTS/RVC audio, unfold `Advanced Settings`.
+- To modify the <u>[inference settings](https://aihubdocs.github.io/en/rvc-resources/inference-settings/)</u> or the output folder for the TTS/RVC audio, unfold `Advanced Settings`.
 
 ***
 ###### ‎      

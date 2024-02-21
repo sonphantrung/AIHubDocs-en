@@ -111,16 +111,16 @@ b. Select your model in the ``Voice Model`` dropdown.
     +++ Single file
     a. Drag & drop the audio or click the upload box to search it.      
     ‎   
-        <img src="..\Applio-img/3-upload.png" alt="image" width="600">   
+        <img src="..\applio-img/3-upload.png" alt="image" width="600">   
     ‎   
     b. Then select it in the dropdown below.      
     ‎   
-        <img src="..\Applio-img/3-select-audio.png" alt="image" width="400">   
+        <img src="..\applio-img/3-select-audio.png" alt="image" width="400">   
 
     +++ In batches
     a. Go to the **Batch** tab.     
     ‎   
-        <img src="..\Applio-img/3-Batch-upload.png" alt="image" width="400">‎         
+        <img src="..\applio-img/3-Batch-upload.png" alt="image" width="400">‎         
     
     b. In the `Input Folder` bar, paste the path folder containing the audios.
 
@@ -131,7 +131,7 @@ b. Select your model in the ``Voice Model`` dropdown.
 #### 4. Modify settings. (optional)      
 -  Unfold `Advanced Settings` if you wish to modify the <u>[inference settings](https://aihubdocs.github.io/en/rvc-resources/inference-settings/)</u> for better results, or to determine the output folder.
 
-    <img src="..\Applio-img/3-advanced.png" alt="image" width="600">‎   
+    <img src="..\applio-img/3-advanced.png" alt="image" width="600">‎   
 ***
 
 ###### ‎  

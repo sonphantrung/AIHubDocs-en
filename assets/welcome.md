@@ -2,7 +2,7 @@
 icon: home-fill
 ---
 # :icon-home-fill: Home        
-``Last update: Feb 19, 2024``         
+``Last update: Feb 20, 2024``         
 ***  
 :::content-center
 <img src=".\img\a.png" alt="image" width="400" height="auto"> 
@@ -63,7 +63,6 @@ icon: home-fill
 ###### ‎     
 ## To-Do List :icon-checklist:
 
-- Applio page
 - About RVC: what it is, forks & FAQ
 - Advanced TB use
 - Advanced dataset cleaning

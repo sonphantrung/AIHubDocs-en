@@ -124,7 +124,9 @@ b. Select your model in the ``Voice Model`` dropdown.
     
     b. In the `Input Folder` bar, paste the path folder containing the audios.
 
-        In `Output Folder` you can paste a path folder for the results.
+        In `Output Folder` you can paste a path folder for the results.        
+  
+        Ensure the paths don't contain spaces/special characters.      
     +++
 
 ‎  
@@ -169,7 +171,7 @@ Don't include spaces/special characters.
 ###### ‎     
 ##### b. Dataset Path
 ###### ‎    
-- Paste the path file of your dataset in the **Dataset Path** bar.    
+- Paste the path file of your dataset in the **Dataset Path** bar. Ensure the path doesn't contain spaces/special characters.
 
     <img src="..\applio-img\4-datasetpath.png" alt="image" width="550">‎  
 

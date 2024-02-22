@@ -12,9 +12,6 @@ icon: home-fill
 #### **``Documentation of RVC & related apps.``**
 :::
 :::content-center
-#### *Made by members of* [<u>AI Hub</u>](https://discord.com/invite/aihub).
-:::
-:::content-center
 ##### <u>[LEARN MORE](https://aihubdocs.github.io/en/#introduction)</u>
 :::
 

@@ -86,7 +86,7 @@ You can connect without GPU, but most colabs need GPU to run, like RVC/W-Okada.
 
 ![image](https://github.com/AIHubDocs/en/assets/91847579/c97cc6de-4eaf-4862-aeb3-27c203a4b780)
 
-Got a popup saying the colab has disallowed code, it means the code runs activities which are restricted for free users, see them all at [FAQ](https://research.google.com/colaboratory/faq.html#limitations-and-restrictions)
+Got a popup saying the colab has disallowed code? It means the code runs activities which are restricted for free users, see them all at [FAQ](https://research.google.com/colaboratory/faq.html#limitations-and-restrictions)
 
 It could also mean the colab you are running is outdated, usually new colabs found ways to bypass this using a Link Shortener or Encrypting the code in Rot 13
 

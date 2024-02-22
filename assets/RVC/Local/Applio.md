@@ -380,7 +380,7 @@ iii. And that's all, have fun with your model. To test it, do a normal <u>[infer
 
 - Making it convenient for determining the **sample rate** of datasets when training models.
 
-- It will also contain the **Eleven Labs TTS** <u>[plugin](https://aihubdocs.github.io/en/rvc/local/applio/#plugins)</u>, in case you downloaded it.
+- It also contains the **model fusion** tool, ideal for advanced users.
 
 ***
 ###### ‎  

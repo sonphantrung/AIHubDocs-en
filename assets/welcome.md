@@ -2,7 +2,7 @@
 icon: home-fill
 ---
 # :icon-home-fill: Home        
-``Last update: Feb 21, 2024``         
+``Last update: Feb 22, 2024``         
 ***  
 :::content-center
 <img src=".\img\a.png" alt="image" width="400" height="auto"> 
@@ -60,13 +60,13 @@ icon: home-fill
 ###### ‎     
 ## To-Do List :icon-checklist:
 
-- About RVC: what it is, forks & FAQ
-- Advanced TB use
+- About RVC
+- Advanced training
 - Advanced dataset cleaning
 - Reform Automaze commands
 - Local AICoverGen
 - AICoverGen UI
-- Other AI tools (chatbots, SD, TTS etc)
+- Other AI tools
 - Pretrains
 
 ***

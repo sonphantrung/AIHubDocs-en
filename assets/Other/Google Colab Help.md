@@ -8,13 +8,13 @@ icon: chevron-right
 
 # Google Colab Help
 
-# RUNTIME DISCONNECTED DUE TO INACTIVITY
+## RUNTIME DISCONNECTED DUE TO INACTIVITY
 
 ![image](https://github.com/AIHubDocs/en/assets/91847579/a67f1fbc-e285-4708-bc81-030d98502b0e)
 
-## You got disconnected from your runtime for being AFK (Away From Keyboard, running a cell that takes much time while you do something else), for example while training an ai voice model with RVC? Here are some ways to fix that:
+You got disconnected from your runtime for being AFK (Away From Keyboard, running a cell that takes much time while you do something else), for example while training an ai voice model with RVC? Here are some ways to fix that:
 
-**PC Method:**
+### **PC Method:**
 
 1. Use the Google Colab.
 2. After you runned everything you needed, and now are waiting afk, there’s 4 ways to open the ChromeDevTools also named Inspect Element:
@@ -30,7 +30,7 @@ document.querySelector("colab-toolbar-button#connect").click()
 setInterval(ClickConnect,60000)”
 4. Press Enter on your keyboard.
 
-**Mobile Method:**
+### **Mobile Method:**
 
 1. Bookmark any site
 2. Edit the bookmark and paste the following script in the URL box (without the “”) :
@@ -46,7 +46,7 @@ setInterval(ClickConnect,60000)”
 5. Now go to the site,in this case the Colab, and go on the search bar where you will search Inspect Element (or whatever name you gave the bookmark), there will be a result that is the Bookmarked one, click it.
 6. Now after 5 seconds you will have a gear icon at the bottom right of the site,click it and now you have the inspect element view.
 
-# If you get a warning when trying to paste the code, not letting you to, you got 2 methods to fix it:
+### If you get a warning when trying to paste the code, not letting you to, you got 2 methods to fix it:
 **Manual Toggle:**
   A. Open DevTools.
   B. Navigate to Experiments.
@@ -55,7 +55,7 @@ setInterval(ClickConnect,60000)”
   E. Just paste again the code and press enter.
 
 
-# CANNOT CONNECT TO GPU BACKEND
+## CANNOT CONNECT TO GPU BACKEND
 
 ![image](https://github.com/AIHubDocs/en/assets/91847579/98d8dc7e-99e9-4596-ade4-f0bef40385d6)
 
@@ -68,7 +68,7 @@ its then **around 4 hours a day**.
 
 You can connect without GPU, but most colabs need GPU to run, like RVC/W-Okada.
 
-**Solutions:**
+### **Solutions:**
 - Use an alternative account.
 - Wait 12-24 hours for it to get reset.
 - [Buy Colab Subscriptions](https://colab.research.google.com/signup)
@@ -77,7 +77,7 @@ You can connect without GPU, but most colabs need GPU to run, like RVC/W-Okada.
 ![image](https://github.com/AIHubDocs/en/assets/91847579/c6694b45-5bec-44d3-8360-2bf0559c5742)
 
 
-# DISALLOWED CODE
+## DISALLOWED CODE
 
 ![image](https://github.com/AIHubDocs/en/assets/91847579/c97cc6de-4eaf-4862-aeb3-27c203a4b780)
 

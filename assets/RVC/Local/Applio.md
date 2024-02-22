@@ -384,7 +384,7 @@ iii. And that's all, have fun with your model. To test it, do a normal <u>[infer
 
 ***
 ###### ‎  
-#### <u>Instructions:</u>
+#### <u>Audio Analyzer:</u>
 1. Go to the **Extra** tab & press the upload box to input your audio. Or simply drag & drop.      
 
    <img src="../applio-img/6-tab.png" alt="image" width="400" height="auto">‎   

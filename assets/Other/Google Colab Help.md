@@ -8,18 +8,20 @@ icon: chevron-right
 
 # Google Colab Help
 
-# 
-
-## You got disconnected from your runtime for being AFK (Away From Keyboard, running a cell that takes much time while you do something else), for example while training an ai voice model with RVC?
+# RUNTIME DISCONNECTED DUE TO INACTIVITY
 
 ![image](https://github.com/AIHubDocs/en/assets/91847579/a67f1fbc-e285-4708-bc81-030d98502b0e)
 
-Here’s the guide for you!
+## You got disconnected from your runtime for being AFK (Away From Keyboard, running a cell that takes much time while you do something else), for example while training an ai voice model with RVC? Here are some ways to fix that:
 
 **PC Method:**
 
 1. Use the Google Colab.
-2. After you runned everything you needed, and now are waiting afk, do Ctrl+ Shift + i for windows/Command + Option + C for Mac, (or just click a random point of the page and click “inspect”) to open the Chrome DevTools.
+2. After you runned everything you needed, and now are waiting afk, there’s 4 ways to open the ChromeDevTools also named Inspect Element:
+- Windows: Do Ctrl+ Shift + i
+- Mac: Do Command + Option + C
+- Click a random point of the page and click “inspect”
+- On the top right corner, click on the 3 dots, then Other Tools, and click DevTools
 3. Then goto the Console Tab and paste (without the “”) :
 “function ClickConnect(){
 console.log("Working"); 
@@ -46,12 +48,12 @@ setInterval(ClickConnect,60000)”
 
 # If you get a warning when trying to paste the code, not letting you to, you got 2 methods to fix it:
 A. **Allow Pasting Method:**
-  a. type “allow pasting” , press enter and confirm it.
-  b. Once you’ve allowed pasting once, the warning won’t appear again.
-  c. Just paste again the code and press enter.
+  a. Open DevTools.
+  c. type “allow pasting” , press enter and confirm it.
+  d. Once you’ve allowed pasting once, the warning won’t appear again.
+  e. Just paste again the code and press enter.
 B. **Manual Toggle:**
-  a. Open DevTools (click the three dots in the top-right corner and select “More tools” > “Developer tools”).
-  b. Click the Settings icon (the gear icon).
+  a. Open DevTools.
   c. Navigate to Experiments.
   d. In the filter, type “Pasting” to find the relevant option.
   e. Toggle “Show warning about self-XSS when pasting code” to disable the warning.

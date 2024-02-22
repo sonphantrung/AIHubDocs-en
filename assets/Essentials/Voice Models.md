@@ -6,7 +6,7 @@ order: 3000
 
 # :icon-dependabot: Voice Models
 
-``Last update: Feb 10, 2024``        
+``Last update: Feb 22, 2024``        
 
 ‎
 :   ‎
@@ -148,9 +148,9 @@ You can listen to the audio sample to get a preview of the it.
 ### <u>Description</u>  
 :::
 
-- This is a Discord bot.
+- This is a Discord bot developed by the IA Hispano team.
 - It searches the models uploaded on every RVC/AI Hub Discord server.
-- Developed by the IA Hispano team.
+- Alternatively, you can use the [web version](https://applio.org/models).
 ***
 ###### ‎
 :::content-center

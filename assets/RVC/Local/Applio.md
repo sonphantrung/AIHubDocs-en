@@ -3,7 +3,7 @@ icon: chevron-right
 order: 5000
 ---
 
-``Last update: Feb 21, 2024``
+``Last update: Feb 22, 2024``
 
 ***
 :::content-center
@@ -36,7 +36,6 @@ order: 5000
 - User-friendly UI
 - TensorBoard included
 ||| ❌ **CONS** 
-- Bigger file size
 - A little slower compared w/ forks
 - More unstable
 ||| 
@@ -199,7 +198,7 @@ Don't include spaces/special characters.
 ###### ‎    
 ##### a. Pitch extraction algorithm
 ###### ‎  
-- Select the <u>[algorithm](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm)</u> you want. Use either ``Crepe`` or ``RMVPE``, as the rest are obsolete.
+- Select the <u>[algorithm](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm)</u> you want. Use either ``Crepe`` or ``RMVPE``, as the rest are outdated.
 
     <img src="..\applio-img\4-f0.png" alt="image" width="400">
 
@@ -481,8 +480,7 @@ Then you'll be able to see the plugin in the **Plugins** tab.
 - This is because AI apps aren't compatible with these <u>[GPUs](https://aihubdocs.github.io/en/other/glossary/#gpu)</u>, only with NVIDIA.
 - Because of this, it's more prone to errors & you'll have to work with your CPU instead, which slows the 
 process.
-- For <u>[inference](https://aihubdocs.github.io/en/other/glossary/#inference)</u>, it's best to use <u>[Ilaria RVC](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/)</u>. And for training models, <u>[RVC Disconnected](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/)</u> or a
-[Paperspace](https://aihubdocs.github.io/en/rvc/cloud/training/paperspace/)</u>.
+- Therefore it's best to use Applio's <u>[cloud version](https://colab.research.google.com/github/iahispano/applio/blob/master/assets/Applio.ipynb)</u>.
 ===
 ***
 :::content-right

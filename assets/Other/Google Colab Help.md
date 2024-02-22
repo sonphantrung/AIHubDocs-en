@@ -47,17 +47,12 @@ setInterval(ClickConnect,60000)”
 6. Now after 5 seconds you will have a gear icon at the bottom right of the site,click it and now you have the inspect element view.
 
 # If you get a warning when trying to paste the code, not letting you to, you got 2 methods to fix it:
-A. **Allow Pasting Method:**
-  a. Open DevTools.
-  c. type “allow pasting” , press enter and confirm it.
-  d. Once you’ve allowed pasting once, the warning won’t appear again.
-  e. Just paste again the code and press enter.
-B. **Manual Toggle:**
-  a. Open DevTools.
-  c. Navigate to Experiments.
-  d. In the filter, type “Pasting” to find the relevant option.
-  e. Toggle “Show warning about self-XSS when pasting code” to disable the warning.
-  f. Just paste again the code and press enter.
+**Manual Toggle:**
+  A. Open DevTools.
+  B. Navigate to Experiments.
+  C. In the filter, type “Pasting” to find the relevant option.
+  D. Toggle “Show warning about self-XSS when pasting code” to disable the warning.
+  E. Just paste again the code and press enter.
 
 
 # CANNOT CONNECT TO GPU BACKEND

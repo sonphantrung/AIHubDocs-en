@@ -68,7 +68,7 @@ its then **around 4 hours a day**.
 
 You can connect without GPU, but most colabs need GPU to run, like RVC/W-Okada.
 
-### **Solutions**
+**Solutions**
 - Use an alternative account.
 - Wait 12-24 hours for it to get reset.
 - [Buy Colab Subscriptions](https://colab.research.google.com/signup)

@@ -14,7 +14,7 @@ icon: chevron-right
 
 You got disconnected from your runtime for being AFK (Away From Keyboard, running a cell that takes much time while you do something else), for example while training an ai voice model with RVC? Here are some ways to fix that:
 
-### **PC Method:**
+### **PC Method**
 
 1. Use the Google Colab.
 2. After you runned everything you needed, and now are waiting afk, there’s 4 ways to open the ChromeDevTools also named Inspect Element:
@@ -30,7 +30,7 @@ document.querySelector("colab-toolbar-button#connect").click()
 setInterval(ClickConnect,60000)”
 4. Press Enter on your keyboard.
 
-### **Mobile Method:**
+### **Mobile Method**
 
 1. Bookmark any site
 2. Edit the bookmark and paste the following script in the URL box (without the “”) :
@@ -68,7 +68,7 @@ its then **around 4 hours a day**.
 
 You can connect without GPU, but most colabs need GPU to run, like RVC/W-Okada.
 
-### **Solutions:**
+### **Solutions**
 - Use an alternative account.
 - Wait 12-24 hours for it to get reset.
 - [Buy Colab Subscriptions](https://colab.research.google.com/signup)

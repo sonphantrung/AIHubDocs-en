@@ -10,9 +10,9 @@ order: 2000
 :::content-center
 ## Introduction ‎ :icon-book:
 :::   
-- Mangio RVC is a <u>[fork</u>](https://aihubdocs.github.io/en/other/glossary/#fork) of RVC, [Mangio621](https://github.com/Mangio621), [Kalomaze](https://github.com/kalomaze), & [Alexolotl](https://github.com/alexlnkp)
+- Mangio RVC is a <u>[fork</u>](https://aihubdocs.github.io/en/extra/glossary/#fork) of RVC, [Mangio621](https://github.com/Mangio621), [Kalomaze](https://github.com/kalomaze), & [Alexolotl](https://github.com/alexlnkp)
 
-- Considered one of the best [forks](https://aihubdocs.github.io/en/other/glossary/#fork) out there. Mainly because of it's extra features, inclusion of <u>[Mangio-Crepe](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm)</u>, & its stability.
+- Considered one of the best [forks](https://aihubdocs.github.io/en/extra/glossary/#fork) out there. Mainly because of it's extra features, inclusion of <u>[Mangio-Crepe](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm)</u>, & its stability.
 
 - The project nowadays is a little abandoned, so don't expect many updates from the developers soon, unfortunately.     
 
@@ -28,7 +28,7 @@ order: 2000
 - Nicer UI.       
 - More features than <u>[Mainline</u>](https://aihubdocs.github.io/en/rvc/local/mainline/).        
 - Has hybrid training.        
-- Lighter storage-wise if you install the <u>[inference</u>](https://aihubdocs.github.io/en/other/glossary/#inference)</u>)-only version.
+- Lighter storage-wise if you install the <u>[inference</u>](https://aihubdocs.github.io/en/extra/glossary/#inference)</u>)-only version.
 ||| ❌ **CONS** 
 - A little slower than Mainline, since it's more bloated.     
 - Will likely remain with no updates for a long time.      
@@ -43,7 +43,7 @@ order: 2000
 :::
 ###### ‎   
 
-1. For exclusively <u>[**inferencing**](https://aihubdocs.github.io/en/other/glossary/#inference)</u>, click <u>[here</u>](https://huggingface.co/MangioRVC/Mangio-RVC-Huggingface/resolve/main/Mangio-RVC-v23.7.0_INFER.7z).      
+1. For exclusively <u>[**inferencing**](https://aihubdocs.github.io/en/extra/glossary/#inference)</u>, click <u>[here</u>](https://huggingface.co/MangioRVC/Mangio-RVC-Huggingface/resolve/main/Mangio-RVC-v23.7.0_INFER.7z).      
     For both inferencing **& training**, click <u>[here</u>](https://huggingface.co/MangioRVC/Mangio-RVC-Huggingface/resolve/main/Mangio-RVC-v23.7.0_INFER_TRAIN.7z).     
 
 2. Once it's done downloading, unzip the folder.
@@ -363,11 +363,11 @@ If the training finished but the model still needed training, you don't have to 
 
 ==- *RVC is slow in my machine with AMD/Intel GPU.*  
 ###### ‎   
-- This is because AI apps aren't compatible with these <u>[GPUs](https://aihubdocs.github.io/en/other/glossary/#gpu)</u>, only with NVIDIA.
+- This is because AI apps aren't compatible with these <u>[GPUs](https://aihubdocs.github.io/en/extra/glossary/#gpu)</u>, only with NVIDIA.
 - Because of this, it's more prone to errors & you'll have to work with your CPU instead, which slows the 
 process.
-- For <u>[inference](https://aihubdocs.github.io/en/other/glossary/#inference)</u>, it's best to use <u>[Ilaria RVC](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/)</u>. And for training models, <u>[RVC Disconnected](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/)</u> or a
-[Paperspace](https://aihubdocs.github.io/en/rvc/cloud/training/paperspace/)</u>.
+- For <u>[inference](https://aihubdocs.github.io/en/extra/glossary/#inference)</u>, it's best to use <u>[Ilaria RVC](https://aihubdocs.github.io/en/rvc/cloud/ilaria-rvc/)</u>. And for training models, <u>[RVC Disconnected](https://aihubdocs.github.io/en/rvc/cloud/rvc-disconnected/)</u> or a
+[Paperspace](https://aihubdocs.github.io/en/rvc/cloud/paperspace/)</u>.
 ===
 
 ***

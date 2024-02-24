@@ -5,7 +5,7 @@ icon: home-fill
 ``Last update: Feb 24, 2024``         
 ***  
 :::content-center
-<img src=".\img\a.png" alt="image" width="400" height="auto"> 
+<img src=".\img\a.png" alt="image" width="345" height="auto"> 
 
 ###### ‎
 
@@ -22,26 +22,16 @@ icon: home-fill
 #### - Most searched guides -      
 :::
 ###### ‎
->{.list-icon}
->#### 🎵 [<u>How to Make AI Cover</u>](https://aihubdocs.github.io/en/essentials/how-to-make-ai-cover/) 
->{.list-icon}
-> - :icon-chevron-right: ***Starting point for making AI covers with RVC.***
->***
->#### :icon-rocket: [<u>How to Make Voice Models</u>](https://aihubdocs.github.io/en/essentials/how-to-make-voice-models/)
->{.list-icon}
-> - :icon-chevron-right: ***Basics of training a voice model.***
->***
->#### 💾 [<u>Voice Models</u>](https://aihubdocs.github.io/en/essentials/voice-models/) 
->{.list-icon}
-> - :icon-chevron-right: ***What they are, and 4 ways to search them.***
->***
->#### 🤗 [<u>Uploading Models to Hugging Face</u>](https://aihubdocs.github.io/en/essentials/uploading-models-to-hugging-face/) 
->{.list-icon}
-> - :icon-chevron-right: ***Tutorial to upload & get a link from HF.***
->***
->#### 🏷️ [<u>Model Maker Role</u>](https://aihubdocs.github.io/en/essentials/model-maker-role/)
->{.list-icon}
-> - :icon-chevron-right: ***Procedure & rules for the model submission.***
+#### :icon-chevron-right: 🎵 <u>[How to Make AI Cover](https://aihubdocs.github.io/en/essentials/how-to-make-ai-cover/)</u>
+***
+#### :icon-chevron-right: :icon-rocket: <u>[How to Make Voice Models](http://aihubdocs.github.io/en/essentials/how-to-make-voice-models/)</u>
+***
+#### :icon-chevron-right: 💾 <u>[Voice Models](https://aihubdocs.github.io/en/essentials/voice-models/)</u>
+***
+#### :icon-chevron-right: 🤗 [<u>Uploading Models to Hugging Face](https://aihubdocs.github.io/en/essentials/uploading-models-to-hugging-face/)</u>
+***
+#### :icon-chevron-right: 🍏 [<u>Applio Guide](http://aihubdocs.github.io/en/rvc/local/applio/)</u> - New!
+
 !!!
 ***
 ###### ‎    
@@ -53,7 +43,7 @@ icon: home-fill
 ‎    
 #### Contributions :icon-code-of-conduct:
 - We are in early development, so we'll appreciate any **feedback**, big or small.      
-<u>Contact us on Discord</u>: ‎ **@ailen2091** ‎ **@eddycrack864**
+Contact us on <u>Discord</u>: ‎ **@ailen2091** ‎ **@eddycrack864**
 
 - You can also send an issue/pull request to our <u>[GitHub page](https://github.com/AIHubDocs)</u>.
 ***
@@ -65,8 +55,7 @@ icon: home-fill
 - Advanced dataset cleaning
 - Reform Automaze commands
 - Local AICoverGen
-- AICoverGen UI
-- Other AI tools
+- Other AIs
 - Pretrains
 
 ***
@@ -83,8 +72,8 @@ icon: home-fill
 `Written by Julia & Eddy`      
 :::   
 ‎    
-:::content-right      
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)     
+:::content-right
+[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://aihubdocs.github.io/en/#contributions)     
 ::: 
 ‎  
 ‎        

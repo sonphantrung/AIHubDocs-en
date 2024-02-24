@@ -15,7 +15,7 @@ icon: chevron-right
 
 - The goal is to get an audio sample with clean vocals, which is what RVC needs to give the most accurate & quality results.
 
-- For RVC users, the best app is Ultimate Vocal Remover 5 (or **UVR**). It can be used either <u>[locally](https://aihubdocs.github.io/en/other/glossary/#local-running)</u> or through the <u>[cloud](https://aihubdocs.github.io/en/other/glossary/#cloud-based)</u>. 
+- For RVC users, the best app is Ultimate Vocal Remover 5 (or **UVR**). It can be used either <u>[locally](https://aihubdocs.github.io/en/extra/glossary/#local-running)</u> or through the <u>[cloud](https://aihubdocs.github.io/en/extra/glossary/#cloud-based)</u>. 
 ***
 <img src="../uvrmvsep-img/3.jpg" alt="image" width="" height="auto">‎       
 
@@ -75,7 +75,7 @@ For better results, have the audio in a <u>[lossless format](https://aihubdocs.g
 a. At the right you can select the output format.       
 We recommend picking `FLAC`. Learn why <u>[here](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/)</u>.   
 ‎  
-b. If your GPU is **compatible with <u>[CUDA](https://aihubdocs.github.io/en/other/glossary/#cuda)</u>**, toggle `GPU Conversion` on for a faster process.    
+b. If your GPU is **compatible with <u>[CUDA](https://aihubdocs.github.io/en/extra/glossary/#cuda)</u>**, toggle `GPU Conversion` on for a faster process.    
 
     <img src="../uvrmvsep-img/16.png" alt="image" width="350" height="auto">‎      
 
@@ -160,7 +160,7 @@ For better results, have the audio in a [lossless format](https://aihubdocs.gith
 a. At the right you can select the output format.       
 We recommend picking `FLAC`. Learn why <u>[here](https://aihubdocs.github.io/en/rvc-resources/audio-formats--sample-rate/)</u>.     
 ‎   
-b. If your GPU is **compatible with <u>[CUDA](https://aihubdocs.github.io/en/other/glossary/#cuda)</u>**, toggle `GPU Conversion` on for a faster process.    
+b. If your GPU is **compatible with <u>[CUDA](https://aihubdocs.github.io/en/extra/glossary/#cuda)</u>**, toggle `GPU Conversion` on for a faster process.    
     ‎       
         <img src="../uvrmvsep-img/16.png" alt="image" width="350" height="auto">‎      
 ###### ‎       
@@ -252,7 +252,7 @@ Click the `Start processing` button at the bottom. And that will be all.
 ***
 !!!warning <U>IMPORTANT NOTES:</u>
 Don't close the Colab tab until you're done using UVR, and don't press buttons continuously too quickly, as it may cause errors.   
-As it's a port to <u>[Google Colab](https://aihubdocs.github.io/en/other/glossary/#google-colab)</u>, switch accounts if you run out of the usage time.       
+As it's a port to <u>[Google Colab](https://aihubdocs.github.io/en/extra/glossary/#google-colab)</u>, switch accounts if you run out of the usage time.       
 !!!
 
 +++ How to Use ‎ :icon-checklist:

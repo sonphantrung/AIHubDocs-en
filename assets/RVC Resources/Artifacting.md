@@ -9,7 +9,7 @@ order: 1000
 ###### ‎ 
 ### Introduction        
 In RVC, artifacting refers to an anomaly where the output voice sounds "robotic" & glitchy.     
-This occurs after the <u>[inference](https://aihubdocs.github.io/en/other/glossary/#inference)</u> or model training process.     
+This occurs after the <u>[inference](https://aihubdocs.github.io/en/extra/glossary/#inference)</u> or model training process.     
 ***
 ###### ‎ 
 ### Causes    

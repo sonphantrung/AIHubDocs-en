@@ -1,6 +1,6 @@
 ---
 icon: chevron-right
-order: 1000
+order: 4000
 ---
 
 ``Last update: Feb 17, 2024`` 
@@ -10,14 +10,14 @@ order: 1000
 :::content-center
 ## Introduction :icon-book:
 :::
-- AICoverGen NO UI is a port of the AICoverGen RVC <u>[fork</u>](https://aihubdocs.github.io/en/other/glossary/#fork) to <u>[Google Colab</u>](https://aihubdocs.github.io/en/other/glossary/#google-colab). Base notebook by <u>[Ardha27</u>](https://github.com/ardha27).    
+- AICoverGen NO UI is a port of the AICoverGen RVC <u>[fork</u>](https://aihubdocs.github.io/en/extra/glossary/#fork) to <u>[Google Colab</u>](https://aihubdocs.github.io/en/extra/glossary/#google-colab). Base notebook by <u>[Ardha27</u>](https://github.com/ardha27).    
 
 - This version (**Eddy's Version**) is an upgrade from the original Colab space, bringing bug fixes, improvements, & extra features. Credits to Eddy & Raid.
 
 - It's ideal for users who want '*quick & dirty*' AI covers, as the whole process is automated. You can input a YouTube link and the vocal isolation & song mixing process will be automatized.
 ‎               
 ### Pros & Cons :icon-tasklist:
-==- ***Unfold***
+==- ***Learn more***
 !!! *The pros & cons are subjective to your necessities.*      
 !!!
 ||| **✔️ PROS:**       
@@ -47,7 +47,7 @@ order: 1000
 a. Log in to Google <u>[here</u>](https://accounts.google.com/).     
 b. Then access the Colab space <u>[here</u>](https://colab.research.google.com/drive/1u1brjK8IZt647UsbZuGYfW29oFM2I4tk?usp%3Dsharing&sa=D&source=editors&ust=1704303145687891&usg=AOvVaw3M9tmokG80RXF-GD1LJqCL).    
 
-    <img src="../aicovergen-img/page.png" alt="image" width="500" height="auto">     
+    <img src="../aicovergennoui-img/page.png" alt="image" width="500" height="auto">     
 
 ***     
 ‎       
@@ -55,19 +55,19 @@ b. Then access the Colab space <u>[here</u>](https://colab.research.google.com/d
 - Execute the ``Clone and Install``.     
 This will install RVC.      
 
-    <img src="../aicovergen-img/cloneandinstall.png" alt="image" width="280" height="auto">‎         
+    <img src="../aicovergennoui-img/cloneandinstall.png" alt="image" width="280" height="auto">‎         
 ‎    
 - It will take around 15 minutes.       
 It'll be done when you see a check symbol (✔️) on the corner.        
 
-    <img src="../aicovergen-img/check.png" alt="image" width="370" height="auto">‎
+    <img src="../aicovergennoui-img/check.png" alt="image" width="370" height="auto">‎
 ‎         
 >Don't worry if red text appears, it's normal.          
 
 ***
 ‎       
 #### 3. <u>Download voice model.</u>    
-<img src="../aicovergen-img/model.png" alt="image" width="550" height="auto">‎       
+<img src="../aicovergennoui-img/model.png" alt="image" width="550" height="auto">‎       
 ‎ 
 a. Go to `Model Download Function` cell.        
 Paste the model's link in the ``url`` bar.     
@@ -90,35 +90,36 @@ You have two ways of doing this: using a <u>**YouTube link**</u> or a <u>**Googl
 +++ **YouTube link**
 Copy a YouTube link, and paste it in the ``SONG_INPUT`` bar.
 
-<img src="../aicovergen-img/generatecoveryt.png" alt="image" width="420" height="auto">‎              
+<img src="../aicovergennoui-img/generatecoveryt.png" alt="image" width="420" height="auto">‎              
 
 +++ **Google Drive file**       
 ###### ‎   
 a. Execute the cell ``Mount Drive`` that's below `Generate Cover`.      
 ‎       
-     <img src="../aicovergen-img/mountdrive.png" alt="image" width="210" height="auto">‎           
+     <img src="../aicovergennoui-img/mountdrive.png" alt="image" width="210" height="auto">‎           
 
 ***      
 b. Click `Connect to Google Drive` & select your Google Account.   
 ‎        
-    <img src="../aicovergen-img/connect.png" alt="image" width="280" height="auto"> 
+    <img src="../aicovergennoui-img/connect.png" alt="image" width="280" height="auto"> 
 ***      
 c. Click the folder symbol ( :icon-file-directory: ) on the right.      
+(For mobile users: tap the three lines on the top left & `Show file browser`)
 
     Go to ``drive`` folder, then ``MyDrive``, & you'll find your Google Drive storage.        
     Find your audio, right-click it, & press ``Copy path``.       
 ‎       
-    <img src="../aicovergen-img/1.png" alt="image" width="320" height="auto">           
+    <img src="../aicovergennoui-img/1.png" alt="image" width="320" height="auto">           
 ***        
 d. Paste the path file in the `SONG_INPUT` bar, located in the `Generate Cover` cell.    
 ‎            
-    <img src="../aicovergen-img/inputaudio.png" alt="image" width="420" height="auto">
+    <img src="../aicovergennoui-img/inputaudio.png" alt="image" width="420" height="auto">
 +++
 ###### ‎  
 #### 5. <u>Select voice model.</u>        
 Under it in ``RVC_DIRNAME`` type the model's name that you have assigned before.       
 
-<img src="../aicovergen-img/2.png" alt="image" width="400" height="auto">    
+<img src="../aicovergennoui-img/2.png" alt="image" width="400" height="auto">    
 
 ***     
 ###### ‎   
@@ -126,7 +127,7 @@ Under it in ``RVC_DIRNAME`` type the model's name that you have assigned before.
 Below ``RVC_DIRNAME`` until ``Audio Mixing Options`` you'll find the <u>[inference settings</u>](https://aihubdocs.github.io/en/rvc-resources/inference-settings/).     
 Tweak them accordingly for better results if you wish.
 
- <img src="../aicovergen-img/3.png" alt="image" width="270" height="auto">        
+ <img src="../aicovergennoui-img/3.png" alt="image" width="270" height="auto">        
 
 ‎       
 > • ‎ `REMIX_MIX_RATE` works like *Volume Envelope*.        
@@ -137,11 +138,11 @@ Tweak them accordingly for better results if you wish.
 
 - In ``Audio Mixing Options``, you can change the values to determine the volume of main vocals, backing vocals, & instrumental.      
 
-    <img src="../aicovergen-img/4.png" alt="image" width="240" height="auto">‎                
+    <img src="../aicovergennoui-img/4.png" alt="image" width="240" height="auto">‎                
     ‎     
 - In `Reverb Control`, you can add reverb to the output vocals.      
     ‎       
-<img src="../aicovergen-img/6.png" alt="image" width="240" height="auto"> ‎  
+<img src="../aicovergennoui-img/6.png" alt="image" width="240" height="auto"> ‎  
  ‎      
 ==- <u>*Reverb Control options:*</u>
 REVERB_SIZE
@@ -166,19 +167,19 @@ Once you are ready, execute the `Generate Cover` cell to begin the conversion.
 
 It'll be done when the last message says "**Cover generated at**" followed by the file path.    
 
-<img src="../aicovergen-img/9.png" alt="image" width="850" height="auto">
+<img src="../aicovergennoui-img/9.png" alt="image" width="850" height="auto">
 
 ***
 ###### ‎   
 #### 9. <u>Download the output.</u>     
-a. Click the folder symbol ( :icon-file-directory: ) on the right.    
-(For mobile users: tap the three lines on the top left & `Show file browser`)     
+a. Click the folder symbol ( :icon-file-directory: ) on the right.      
+(For mobile users: tap the three lines on the top left & `Show file browser`)        
 
     Open the `song_output` & then the one with a bunch of numbers.
 
 b. Right-click the first file & press `Download`. The rest of the audios are the stems, that you can download too if you wish.
 
-    <img src="../aicovergen-img/10.png" alt="image" width="550" height="auto">‎   
+    <img src="../aicovergennoui-img/10.png" alt="image" width="550" height="auto">‎   
 
 ###### ‎  
 - #### If the voice glitches out, click <u>[here</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting/).

@@ -51,7 +51,7 @@ order: 6000
 ### :icon-chevron-down: Installing & Opening
 
 !!!success
-For <u>[RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/) users, ignore this, it opens up by itself when you start training.
+For <u>[RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/rvc-disconnected/) users, ignore this, it opens up by itself when you start training.
 !!!
 
 ###### ‎       

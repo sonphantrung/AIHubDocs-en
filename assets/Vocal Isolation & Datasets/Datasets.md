@@ -48,7 +48,7 @@ icon: chevron-right
 :::
 1. First, clean the undesired noises explained before using a <u>[vocal isolation](https://aihubdocs.github.io/en/vocal-isolation--datasets/vocal-isolation/)</u> software.     
 ***   
-2. Then, to remove silences, distortion & minimize (even more) noise, we'll use tools from <u>[Audacity</u>](https://www.audacityteam.org/download/). A free, simple & very light-weighted <u>[DAW](https://aihubdocs.github.io/en/other/glossary/#daw)</u>.            
+2. Then, to remove silences, distortion & minimize (even more) noise, we'll use tools from <u>[Audacity</u>](https://www.audacityteam.org/download/). A free, simple & very light-weighted <u>[DAW](https://aihubdocs.github.io/en/extra/glossary/#daw)</u>.            
     ‎     
 
     {.list-icon}  

@@ -10,7 +10,7 @@ order: 4000
 :::content-center
 ## Introduction
 :::
-- When doing [<u>inference</u>](https://aihubdocs.github.io/en/other/glossary/#inference)</u> in RVC, you'll come across to quite a few options that you can tweak, that influence the conversion process.
+- When doing [<u>inference</u>](https://aihubdocs.github.io/en/extra/glossary/#inference)</u> in RVC, you'll come across to quite a few options that you can tweak, that influence the conversion process.
 
 - Configuring them accordingly can improve the output quality by a lot, as well as reduce artifacting, so we highly recommend learning them.   
 
@@ -76,7 +76,7 @@ order: 4000
 
     *** 
     :::content-center 
-    ##### Some <u>[forks](https://aihubdocs.github.io/en/other/glossary/#fork)</u> include *RMVPE_GPU* & *RMVPE+*. Same algorithm, but with a modification:       
+    ##### Some <u>[forks](https://aihubdocs.github.io/en/extra/glossary/#fork)</u> include *RMVPE_GPU* & *RMVPE+*. Same algorithm, but with a modification:       
     ###### ‎       
     :::
     **RMVPE GPU**

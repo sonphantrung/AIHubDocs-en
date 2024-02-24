@@ -1,5 +1,6 @@
 ---
 icon: chevron-right
+order: 2000
 ---
 
 ``Last update: Feb 14, 2024``
@@ -9,7 +10,7 @@ icon: chevron-right
 ## Introduction
 :::
 ###### ‎              
-- RVC Disconnected (or RVC-D) is a port of <u>[Mangio](https://aihubdocs.github.io/en/rvc/local/mangio/)</u> to <u>[Google Colab</u>](https://aihubdocs.github.io/en/other/glossary/#google-colab), for exclusively training. Notebook made by <u>[Kit Lemonfoot</u>](https://huggingface.co/Kit-Lemonfoot).
+- RVC Disconnected (or RVC-D) is a port of <u>[Mangio](https://aihubdocs.github.io/en/rvc/local/mangio/)</u> to <u>[Google Colab</u>](https://aihubdocs.github.io/en/extra/glossary/#google-colab), for exclusively training. Notebook made by <u>[Kit Lemonfoot</u>](https://huggingface.co/Kit-Lemonfoot).
 
 - It's free, includes all the necessary tools for a quality model, the <u>[TensorBoard</u>](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#tensorboard), & it's the fastest Colab space for training.    
 
@@ -17,7 +18,7 @@ icon: chevron-right
 ‎       
 ### Pros & Cons :icon-tasklist:
 
-==- ***Unfold***
+==- ***Learn more***
 !!! *The pros & cons are subjective to your necessities.*        
 !!!
 ||| **✔️ PROS:**  
@@ -161,12 +162,12 @@ But if your dataset is small (around 2 minutes or less), use ``4``.
 ***
 ###### ‎ 
 #### 8. Download model. 
-- Once you are sure of overtraining, you can stop training by pressing the stop button of the ``Training`` cell.     
+- Once you are sure of overtraining, you can stop training by pressing the stop button of the ``Training`` cell. 
 
-- Click the folder symbol on the right.    
-(For mobile users: tap the three lines on the top left & `Show file browser`)
+- Click the folder symbol on the right.     
+(For mobile users: tap the three lines on the top left & `Show file browser`)     
 
-- Open the ``Mangio-RVC-Fork`` folder, then `weights`. There you'll find the model's checkpoints.    
+    Open the ``Mangio-RVC-Fork`` folder, then `weights`. There you'll find the model's checkpoints.    
 
     <img src="../rvcdisconnected-img/20.png" alt="image" width="210" height="auto">‎    
 ‎   

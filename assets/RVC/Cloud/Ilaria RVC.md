@@ -1,6 +1,6 @@
 ---
 icon: chevron-right
-order: 2000
+order: 6000
 ---
 
 ``Last update: Feb 14, 2024``
@@ -10,14 +10,14 @@ order: 2000
 :::content-center
 ## Introduction :icon-book:
 :::
-- Ilaria RVC is a port of EasyGUI (<u>[Mangio</u>](https://aihubdocs.github.io/en/rvc/local/mangio/)) to <u>[Google Colab</u>](https://aihubdocs.github.io/en/other/glossary/#google-colab). Made by <u>[Ilaria](https://ko-fi.com/ilariaowo)</u>.     
+- Ilaria RVC is a port of EasyGUI (<u>[Mangio</u>](https://aihubdocs.github.io/en/rvc/local/mangio/)) to <u>[Google Colab</u>](https://aihubdocs.github.io/en/extra/glossary/#google-colab). Made by <u>[Ilaria](https://ko-fi.com/ilariaowo)</u>.     
 
-- Works for <u>[inferencing](https://aihubdocs.github.io/en/other/glossary/#inference)</u> only, has a pretty UI, huge speed, & the great tools that Mangio has (such as <u>[Mangio-Crepe](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm)</u> algorithm).
+- Works for <u>[inferencing](https://aihubdocs.github.io/en/extra/glossary/#inference)</u> only, has a pretty UI, huge speed, & the great tools that Mangio has (such as <u>[Mangio-Crepe](https://aihubdocs.github.io/en/rvc-resources/inference-settings/#pitch-extraction-algorithm)</u> algorithm).
 
 - And for this it's considered one of the best alternatives for doing inference through the cloud.       
 ‎               
 ### Pros & Cons :icon-tasklist:
-==- ***Unfold***
+==- ***Learn more***
 !!! *The pros & cons are subjective to your necessities.*        
 !!!
 ||| **✔️ PROS:**  
@@ -39,7 +39,7 @@ order: 2000
 ## Inference :icon-unmute:
 
 !!!success
-If you encounter an issue, read the <u>[Troubleshooting</u>](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#troubleshooting-) chapter below.
+If you encounter an issue, read the <u>[Troubleshooting</u>](https://aihubdocs.github.io/en/rvc/cloud/ilaria-rvc/#troubleshooting-) chapter below.
 !!!
 :::
 
@@ -142,7 +142,7 @@ Tap them to unfold.
 #### *`and with an RVC model`*
 ###### ‎
 :::
-1. First access the Gradio. If you don't know how, follow the first three steps of the <u>[previous chapter](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#inference)</u>.
+1. First access the Gradio. If you don't know how, follow the first three steps of the <u>[previous chapter](https://aihubdocs.github.io/en/rvc/cloud/ilaria-rvc/#inference)</u>.
 ***
 2. Go to the `IlariaTTS` section. 
 
@@ -163,7 +163,7 @@ At the right press the three dots & then `Download`.
      
 ***
 6. To use an RVC model, simply upload the output to Ilaria RVC & convert it using your model. (Optional)        
-    If you don't know, learn <u>[here](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/#inference)</u>.
+    If you don't know, learn <u>[here](https://aihubdocs.github.io/en/rvc/cloud/ilaria-rvc/#inference)</u>.
 
 ***
 ###### ‎

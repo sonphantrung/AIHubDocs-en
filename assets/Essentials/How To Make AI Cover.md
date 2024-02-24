@@ -22,7 +22,7 @@ order: 6000
 
 - RVC (Retrieval-based Voice Conversion) is an advanced AI software for voice cloning. It's free & open-source.
 
-- Requires **great <u>[specs</u>](https://aihubdocs.github.io/en/other/glossary/#specs)** to run it effectively, but it can be executed through the <u>[cloud](https://aihubdocs.github.io/en/other/glossary/#cloud-based)</u> & be used in any device.
+- Requires **great <u>[specs</u>](https://aihubdocs.github.io/en/extra/glossary/#specs)** to run it effectively, but it can be executed through the <u>[cloud](https://aihubdocs.github.io/en/extra/glossary/#cloud-based)</u> & be used in any device.
 
 Now let's begin with the steps.        
 ‎
@@ -47,7 +47,7 @@ Now let's begin with the steps.
 ***
 ###### ‎
 ### 3. Convert the vocals
-- After obtaining the vocals & model, it's time to set up RVC & do <u>[***inference***](https://aihubdocs.github.io/en/other/glossary/#inference)</u>.
+- After obtaining the vocals & model, it's time to set up RVC & do <u>[***inference***](https://aihubdocs.github.io/en/extra/glossary/#inference)</u>.
 
 - There are plenty of versions of RVC, but these are the best ones for beginners.      
 Pick according to your needs:
@@ -55,13 +55,13 @@ Pick according to your needs:
     {.list-icon}   
     - #### :icon-device-desktop: ‎ <u>[For local users](https://aihubdocs.github.io/en/rvc/local/mainline/)</u>
 
-    - #### :icon-cloud: ‎ <u>[For cloud users](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/)</u>
+    - #### :icon-cloud: ‎ <u>[For cloud users](https://aihubdocs.github.io/en/rvc/cloud/ilaria-rvc/)</u>
 ***
 ###### ‎
 ### 4. Mixing tips (extra)
 - Congratulations! You made it to the final part. Now it's time to put the pieces together & mix the song.     
 
-- You are free to use any <u>[DAW](https://aihubdocs.github.io/en/other/glossary/#daw)</u>, but we recommend **FL Studio** or **BandLab**, as they are beginner-friendly.     
+- You are free to use any <u>[DAW](https://aihubdocs.github.io/en/extra/glossary/#daw)</u>, but we recommend **FL Studio** or **BandLab**, as they are beginner-friendly.     
 Search some of their mixing tutorials on YouTube.
 
 - **Recommendations for the mix:**     

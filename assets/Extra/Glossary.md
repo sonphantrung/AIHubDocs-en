@@ -19,7 +19,7 @@ icon: chevron-right
 ### :icon-chevron-down:Cloud-based
 - Any software or application that's stored, managed, and available through the provider's virtual servers, and is accessed through a web browser.        
 
-- The opposite of <u>[local running</u>](https://aihubdocs.github.io/other/glossary/#local-running).          
+- The opposite of <u>[local running</u>](https://aihubdocs.github.io/en/extra/glossary/#local-running).          
 ***
 ###### ‎       
 ### :icon-chevron-down:CUDA
@@ -43,7 +43,7 @@ icon: chevron-right
 ### :icon-chevron-down:Google Colab
 - Google Colaboratory is a product of Google that allows anybody to write & execute arbitrary python code through websites.     
 
-- Cloud RVC users mainly use it for the RVC ports, like <u>[AICoverGen NO UI](https://aihubdocs.github.io/en/rvc/cloud/inference/aicovergen-no-ui/)</u>, <u>[Ilaria RVC</u>](https://aihubdocs.github.io/en/rvc/cloud/inference/ilaria-rvc/), & <u>[RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/).    
+- Cloud RVC users mainly use it for the RVC ports, like <u>[AICoverGen NO UI](https://aihubdocs.github.io/en/rvc/cloud/aicovergen-no-ui/)</u>, <u>[Ilaria RVC</u>](https://aihubdocs.github.io/en/rvc/cloud/ilaria-rvc/), & <u>[RVC Disconnected</u>](https://aihubdocs.github.io/en/rvc/cloud/rvc-disconnected/).    
 
 - It's free version is slower & with a usage limit of **4 hours per day**. When you ran out of it you'll have to wait 24 hours, or switch to another account.
 
@@ -66,12 +66,12 @@ icon: chevron-right
 ### :icon-chevron-down:Local running
 - Running locally is a process that involves running apps in your own machine, using its resources.       
 
-- The opposite of <u>[cloud-based](https://aihubdocs.github.io/en/other/glossary/#cloud-based)</u>.        
+- The opposite of <u>[cloud-based](https://aihubdocs.github.io/en/extra/glossary/#cloud-based)</u>.        
    
 ***
 ###### ‎       
 ### :icon-chevron-down:Specs
-- It refers to a computer's specifications. Hardware like <u>[GPU</u>](https://aihubdocs.github.io/en/other/glossary/#gpu), CPU, RAM, etc.     
+- It refers to a computer's specifications. Hardware like <u>[GPU</u>](https://aihubdocs.github.io/en/extra/glossary/#gpu), CPU, RAM, etc.     
 - The performance of the hardware of a computer directly correlates to the performance of all its software.
 ***
 :::content-right

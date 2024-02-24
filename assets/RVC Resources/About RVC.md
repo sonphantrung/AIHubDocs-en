@@ -15,14 +15,14 @@ visibility: private
 
 - It was designed for desktop, requiring great specs to run it effectively, specially GPU for training models (specifically NVIDIA).
 
-- Though it can be executed through the <u>[cloud](https://aihubdocs.github.io/en/other/glossary/#cloud-based)</u> & be used in any device, in case you don't meet the previous requirement.        
+- Though it can be executed through the <u>[cloud](https://aihubdocs.github.io/en/extra/glossary/#cloud-based)</u> & be used in any device, in case you don't meet the previous requirement.        
 ‎       
 ‎       
 ***
 ## Forks :icon-repo-forked:
 ***
 
-RVC has quite a few <U>[forks](https://aihubdocs.github.io/en/other/glossary/#fork)</u> made by the public, each one meeting different needs for the user, and with its pros & cons.     
+RVC has quite a few <U>[forks](https://aihubdocs.github.io/en/extra/glossary/#fork)</u> made by the public, each one meeting different needs for the user, and with its pros & cons.     
 
 These are the main ones, along with their cloud-based versions:       
 
@@ -62,7 +62,7 @@ For a usage guide, check their respective pages on this website.
 
 ==- ***What are the requirements for RVC locally?***
 ###### ‎      
-- The **recommended** minimum specs vary depending if it's for training models or <u>[inference](https://aihubdocs.github.io/en/other/glossary/#inference)</u>.
+- The **recommended** minimum specs vary depending if it's for training models or <u>[inference](https://aihubdocs.github.io/en/extra/glossary/#inference)</u>.
 +++ For Training
 **SPEC** | **REQUIREMENT** | 
 :---: | :---: | :---: |
@@ -81,7 +81,7 @@ STORAGE | 6 GB
 +++
 ###### ‎    
 !!! <u>NOTES:</u>
-- If you don't meet these requirements, it's more convenient to use RVC through the <u>[cloud](https://aihubdocs.github.io/en/other/glossary/#cloud-based)</u>.
+- If you don't meet these requirements, it's more convenient to use RVC through the <u>[cloud](https://aihubdocs.github.io/en/extra/glossary/#cloud-based)</u>.
 - Regarding GPUs, RVC is only compatible with NVIDIA. Learn below why.
 !!!
 
@@ -91,7 +91,7 @@ STORAGE | 6 GB
 ###### ‎  
 - You can, but it's not recommended, as these GPUs aren't compatible with AI software.
 - Therefore RVC will be more prone to errors & will rely on your CPU, slowing down the speed significantly.
-- So it's more convenient using RVC through the <u>[cloud](https://aihubdocs.github.io/en/other/glossary/#cloud-based)</u>.
+- So it's more convenient using RVC through the <u>[cloud](https://aihubdocs.github.io/en/extra/glossary/#cloud-based)</u>.
 === 
 
 ==- ***How long does it take to train?***

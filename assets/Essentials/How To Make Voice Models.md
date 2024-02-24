@@ -21,7 +21,7 @@ order: 5000
 
 - RVC (Retrieval-based Voice Conversion) is an advanced AI voice cloning software. It's free & open-source.
 
-- Requires **great <u>[specs</u>](https://aihubdocs.github.io/en/other/glossary/#specs)** & <u>[GPU](https://aihubdocs.github.io/en/other/glossary/#gpu)</u> (specifically NVIDIA) to train effectively, but it can be executed through the <u>[cloud](https://aihubdocs.github.io/en/other/glossary/#cloud-based)</u> & be used in any device.
+- Requires **great <u>[specs</u>](https://aihubdocs.github.io/en/extra/glossary/#specs)** & <u>[GPU](https://aihubdocs.github.io/en/extra/glossary/#gpu)</u> (specifically NVIDIA) to train effectively, but it can be executed through the <u>[cloud](https://aihubdocs.github.io/en/extra/glossary/#cloud-based)</u> & be used in any device.
 
 Now let's begin with the steps. Keep in mind, it won't be an instant process, remember to be patient.
 ***
@@ -47,7 +47,7 @@ Pick according to your needs:
 
     #### :icon-device-desktop: ‎ <u>[For local users](https://aihubdocs.github.io/en/rvc/local/mainline/)</u>
 
-    #### :icon-cloud: ‎ <u>[For cloud users](https://aihubdocs.github.io/en/rvc/cloud/training/rvc-disconnected/)</u>
+    #### :icon-cloud: ‎ <u>[For cloud users](https://aihubdocs.github.io/en/rvc/cloud/rvc-disconnected/)</u>
 
 ***
 ###### ‎ 

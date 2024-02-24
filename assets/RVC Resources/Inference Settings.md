@@ -131,7 +131,7 @@ order: 4000
 :::
 ‎  
 
-#### :icon-chevron-down: Controls the loudness of the output:
+#### :icon-chevron-down: Also known as <u>Remix Mix Rate</u>, controls the loudness of the output:
 - The closer to ``0``, the more the output will **match** the **loudness** of the **input** audio.
 
 - The closer to ``1``, the more it will match the loudness of the [<u>dataset</u>](https://aihubdocs.github.io/en/vocal-isolation--datasets/datasets) the **model** was trained on.

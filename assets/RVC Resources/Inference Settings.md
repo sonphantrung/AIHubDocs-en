@@ -67,23 +67,20 @@ order: 4000
 
 - As the majority of them are obsolete, we'll focus on the 3 best ones: **RMVPE**, **Crepe**, & **Mangio-Crepe**.
 
-    ==- *RMVPE*
+    === *RMVPE*
     ###### ‎       
     - Fast        
     - Decent quality       
     - Usually sounds a little harsh   
-    - Should be your **go-to** algorithm, due to its convenience    
+    - Should be your **go-to** algorithm, due to its convenience       
+    ***
+    Some <u>[forks](https://aihubdocs.github.io/en/extra/glossary/#fork)</u> include **RMVPE_GPU** & **RMVPE+**. Same algorithm, but with a modification:         
 
-    *** 
-    :::content-center 
-    ##### Some <u>[forks](https://aihubdocs.github.io/en/extra/glossary/#fork)</u> include *RMVPE_GPU* & *RMVPE+*. Same algorithm, but with a modification:       
-    ###### ‎       
-    :::
-    **RMVPE GPU**
+    <u>**RMVPE GPU**</u>:
     :   Training only. Uses more GPU power, making you train faster.
 
-    **RMVPE+**
-    :   Inference only. You can set the maximum/minimum frequency, to reduce small distortions. Recommended for advanced users.
+    <u>**RMVPE+**</u>:
+    :   Inference only. Allows you to set the maximum/minimum frequency, to reduce small distortions. Recommended for advanced users.
 
     ===
 
@@ -92,7 +89,8 @@ order: 4000
     - Slower
     - Has higher quality
     - More prone to noise & <u>[artifacting</u>](https://aihubdocs.github.io/en/rvc-resources/artifacting/). Switch to RMVPE if you can't fix it
-    - Recommended for more **professional** results
+    - Only use it with high quality datasets/samples
+    - Recommended for more **realistic** results
     ===
 
     ==- *Mangio-Crepe*
@@ -138,12 +136,26 @@ order: 4000
 
 >Basically, leave it at 0 if you want the audio to try to keep its original volume.
 ***
+###### ‎
+:::content-center
+### <u>Split Audio</u>
+<img src="../infsettings-img/6.png" alt="image" width="200" height="auto"> 
+:::
+‎   
+
+#### :icon-chevron-down: Gives a faster inference & more consistent output volume:
+- There's an error where the volume of the output lowers in some parts.
+
+- To prevent this, Split Audio divides the audio & infers them one by one. Then unites them at the end.
+
+- Doing it this way is faster too.
+***
 :::content-right
 `Written by Julia & Alex`     
 :::
 ‎  
 :::content-right
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)
+[!badge variant="info" size="xl" corners="pill" icon="paper-airplane" iconAlign="right" text="Report Issues"](http://aihubdocs.github.io/en/#contributions)
 :::
 ‎  
 ‎  

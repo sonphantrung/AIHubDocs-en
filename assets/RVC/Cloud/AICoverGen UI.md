@@ -13,30 +13,29 @@ order: 3000
 
 - AICoverGen UI is a port of the AICoverGen <u>[fork</u>](https://aihubdocs.github.io/en/extra/glossary/#fork) to <u>[Google Colab</u>](https://aihubdocs.github.io/en/extra/glossary/#google-colab). Port by <u>[Hina](https://huggingface.co/HinaBl)</u>, original repo by <u>[SociallyIneptWeeb</u>](https://github.com/SociallyIneptWeeb/AICoverGen).    
 
-- It's ideal for users who want '*quick & dirty*' AI covers, as the whole process is automated. You input a YouTube link and the <u>[vocal isolation](https://aihubdocs.github.io/en/vocal-isolation--datasets/vocal-isolation/)</u> & song mix will be automatized.
+- It's ideal for users who want '*quick & dirty*' AI covers, as the whole process of inputting audio, vocal isolation & song mixing is automated. 
 
-- The pitch control is limiting & inconvenient, so if you want a more polished output quality, use <u>[Ilaria RVC](https://aihubdocs.github.io/en/rvc/cloud/ilaria-rvc/)</u> instead.      
-‎               
+- The pitch control is limiting & inconvenient. So if you want an output with a perfect pitch, use <u>[Ilaria RVC](https://aihubdocs.github.io/en/rvc/cloud/ilaria-rvc/)</u> instead.  
+‎          
 ### Pros & Cons :icon-tasklist:
 ==- *Learn more*
 !!! *The pros & cons are subjective to your necessities.*      
 !!!
 ||| **✔️ PROS:**       
 - Automatic vocal extraction.           
-- Song mixing tool.            
-- Tool to add reverb.       
-- Includes Mangio-Crepe algorithm.      
+- Song mixing tool.                 
+- Has Mangio-Crepe.      
 - Automatic model upload.               
-- Can input audio with YouTube links or audio files
+- Input audio with YouTube links
 - Great UI.
-- Automatic stem separation (can get each later).
+- Can get the stems files.
 ||| **❌ CONS:**       
 - Usage limit for free users.           
 - Takes 6 mins to load.        
-- No control over the stem separation process. Could be a problem.
-- Said extraction will always run. You'll waste time if you input clean vocals. 
-- Little control of the mixing tools. Using a DAW is more convenient
-- Bad control of the pitch
+- No control over the stem separation.
+- The extraction will always run, you'll waste time if you input clean vocals. 
+- Little control of the mixing tools.
+- Inconvenient pitch control.
 |||    
 
 ===
@@ -143,15 +142,17 @@ Then login to your Google account.
 
 - Go to **Hina_RVC**, **song_output**, open the new folder, right-click the stem you wish & click `Download`.
 
-    <img src="..\aicovergenui-img\stems.png" alt="image" width="470">
-
+    <img src="..\aicovergenui-img\stems.png" alt="image" width="470">‎    
+‎    
+- #### If the voice glitches out, click <u>[here](https://aihubdocs.github.io/en/rvc-resources/inference-settings/)</u>.
 ***
 :::content-right
 `Written by Julia`   
 :::
 ‎    
 :::content-right
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)
+[!badge variant="info" size="xl" corners="pill" icon="paper-airplane" iconAlign="right" text="Report Issues"](http://aihubdocs.github.io/en/#contributions)
+::: 
 :::
 ###### ‎ 
 ###### ‎ 

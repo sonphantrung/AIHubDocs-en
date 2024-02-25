@@ -91,7 +91,7 @@ It could also mean the colab you are running is outdated, usually new colabs fou
 :::
 ‎   
 :::content-right
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)
+[!badge variant="info" size="xl" corners="pill" icon="paper-airplane" iconAlign="right" text="Report Issues"](http://aihubdocs.github.io/en/#contributions)
 :::
 ‎   
 ‎   

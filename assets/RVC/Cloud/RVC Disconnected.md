@@ -135,7 +135,7 @@ b. To download it, open `rvcDisconnected` in GD. Open the folder named after the
 
 `save_frequency`
 :   At how many <u>[epochs](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/)</u> the model will be saved at. These saved models are known as the "checkpoints". If you are a newbie, leave it at `15`.      
-<u>E.g:</u> with a value of ``10``, it will save after 10, 20, 30, 40 epochs, etc.    
+<u>E.g:</u> with a value of ``10``, it will be saved after the epoch 10, 20, 30, etc.   
 
 `total_epochs`
 :   The total amount of <u>[epochs](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard//)</u> for the model. But since we'll use <u>[TensorBoard](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#tensorboard)</u>, use an arbitrarily large number like ``2000``.
@@ -151,7 +151,7 @@ But if your dataset is small (around 2 minutes or less), use ``4``.
 
 - <u>[TB](https://aihubdocs.github.io/en/rvc-resources/epochs-overtraining--tensorboard/#tensorboard)</u> will open up after a few seconds, remember to monitor it. The graphs will take a minute to appear.
 
-- The cell will be showing you information about the epochs & when the checkpoints happen.      
+- The cell will be showing you errors if they happen, and information about the epochs & checkpoints.  
 ‎   
 !!!warning <u>While training, you might get disconnected if you:</u>
 • Ran out of usage time.       
@@ -241,6 +241,6 @@ You can continue from latest checkpoint, and the process is pretty easy.
 ``Re-done by: Julia, Eddy, Poopmaster & Light``      
 :::
 :::content-center
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)
+[!badge variant="info" size="xl" corners="pill" icon="paper-airplane" iconAlign="right" text="Report Issues"](http://aihubdocs.github.io/en/#contributions)
 :::  
 ***

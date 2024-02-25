@@ -18,7 +18,7 @@ order: 6000
 :::content-center
 ####  Want to learn how to make AI covers? Here's how.
 :::
-- To convert the the voice into your desired person, we'll use the best software for this, <U>**RVC**</u>.   
+- To convert the the voice into your desired person, we'll use the best software for this, **RVC**.   
 
 - RVC (Retrieval-based Voice Conversion) is an advanced AI software for voice cloning. It's free & open-source.
 
@@ -80,7 +80,7 @@ Search some of their mixing tutorials on YouTube.
 :::
 ‎   
 :::content-right
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)
+[!badge variant="info" size="xl" corners="pill" icon="paper-airplane" iconAlign="right" text="Report Issues"](http://aihubdocs.github.io/en/#contributions)
 :::
 ‎   
 ‎       

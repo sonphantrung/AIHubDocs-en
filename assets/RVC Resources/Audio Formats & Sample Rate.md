@@ -107,7 +107,7 @@ Converting a lossy audio to a lossless one won't restore the lost quality.
 :::
 ‎  
 :::content-right
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)          
+[!badge variant="info" size="xl" corners="pill" icon="paper-airplane" iconAlign="right" text="Report Issues"](http://aihubdocs.github.io/en/#contributions)          
 :::
 ‎  
 ‎  

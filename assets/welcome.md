@@ -42,8 +42,8 @@ icon: home-fill
 <u>Topics include</u>: model training, inference, audio isolation, datasets, TensorBoard, & more. For **all** devices.      
 ‎    
 #### Contributions :icon-code-of-conduct:
-- We are in early development, so we'll appreciate any **feedback**, big or small.      
-Contact us on <u>Discord</u>: ‎ **@ailen2091** ‎ **@eddycrack864**
+- We'll appreciate any **feedback**, big or small.      
+For suggestions/reporting issues, contact any of us on <u>Discord</u>: ‎ **@ailen2091** ‎ **@eddycrack864**
 
 - You can also send an issue/pull request to our <u>[GitHub page](https://github.com/AIHubDocs)</u>.
 ***
@@ -54,7 +54,6 @@ Contact us on <u>Discord</u>: ‎ **@ailen2091** ‎ **@eddycrack864**
 - Advanced training
 - Advanced dataset cleaning
 - Reform Automaze commands
-- Local AICoverGen
 - Other AIs
 - Pretrains
 
@@ -73,7 +72,7 @@ Contact us on <u>Discord</u>: ‎ **@ailen2091** ‎ **@eddycrack864**
 :::   
 ‎    
 :::content-right
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](https://aihubdocs.github.io/en/#contributions)     
+[!badge variant="info" size="xl" corners="pill" icon="paper-airplane" iconAlign="right" text="Report Issues"](http://aihubdocs.github.io/en/#contributions)
 ::: 
 ‎  
 ‎        

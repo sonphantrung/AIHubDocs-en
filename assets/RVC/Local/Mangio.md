@@ -246,7 +246,7 @@ In `Save frequency` determine at how many <u>[epochs](https://aihubdocs.github.i
 
 If you are a newbie, leave it at `15`.      
     
-E.g: with a value of ``10``, it will be saved at every 10, 20, 30 epochs, etc.                    
+E.g: with a value of ``10``, it will be saved after the epoch 10, 20, 30, etc.                  
 ‎   
 
 <img src="../mangio-img/12.png" alt="image" width="250" height="auto"> 
@@ -288,7 +288,7 @@ Start training the model by clicking `Train model`.
 ‎ 
 
 Remember to monitor TB, & also the console just in case.    
-The console will show you errors in case they happen, and information about the epochs & when the checkpoints happen.       
+The latter will show you errors if they happen, and information about the epochs & checkpoints.happen.       
 ‎   
 <img src="../mainline-img/j.png" alt="image" width="550" height="auto"> 
 
@@ -379,6 +379,6 @@ process.
 ``A thanks to: Poopmaster, Eddy, Raid, SimplCup.``  
 :::
 :::content-center
-[!button variant="primary" corners="pill" icon="feed-discussion" iconAlign="right" text="Send Suggestions"](http://aihubdocs.github.io/en/#contributions)
+[!badge variant="info" size="xl" corners="pill" icon="paper-airplane" iconAlign="right" text="Report Issues"](http://aihubdocs.github.io/en/#contributions)
 :::
 ***
